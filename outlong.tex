@@ -63,6 +63,20 @@
 	\section{Προηγούμενες σχετικές μελέτες}
 	% (1-4 σελίδες)
 	Εδώ γίνεται η ανασκόπηση της βιβλιογραφίας...
+	\subsection{Model selection for mixture hidden Markov models: an
+		application to clickstream data}
+	\cite{MMHM}
+	\subsubsection{Σκοποί}
+		Ανάλυση δεδομένων clickstream μέσα απο την εφαρμογή των Mixture Hidden Markov Models (MHMM).
+	\subsubsection{Προβλήματα και Τρόποι Αντιμετώπισης}
+	Η εφαρμογή των MHMM καθιστάται πολύπλοκη λόγω της εύρεσης του κρυφού αριθμού των συστάδων και των κρυφών καταστάσεων. Η χρήση βασικών μοντέλων Information Criteria όπως AIC, BIC kai ssBIC δίνουν λανθασμένο αριθμό συστάδων. Οι συγγραφείς επέλεξαν να χρησιμοποιήσουν το μοντέλο $BIC_H$ όπου είναι σαν το μοντελο BIC αλλά ποινικοποιούν με βάση την εντροπία %να γράψω και άλλα
+	
+	\subsubsection{Αποτελέσματα}
+	Για την εφαρμογή των παραπάνω οι συγγραφείς χρησιμοποίησαν μια προσομοίωση Monte-Carlo και με πραγματικά δεδομένα της LovePanormus.
+	
+	Και στις 2 περιπτώσεις το $BIC_H$ αποδεικνύεται ότι έχει την καλύτερη απόδοση και αποδίδει καλύτερες κρυφές καταστάσεις στους χρήστες.
+	
+	
 	
 	\section{Προτεινόμενες τεχνικές}
 	% (Βασικές ενότητες της συγκεκριμένης εργασίας - 10-16 σελίδες)
@@ -86,6 +100,9 @@
 	%               ΒΙΒΛΙΟΓΡΑΦΙΑ
 	% ==========================================
 	\newpage
-	%\printbibliography[title=Βιβλιογραφία]
-	
+	\begin{thebibliography}{99}
+		\bibitem{MMHM}Furio Urso, Antonino Abbruzzo, Marcello Chiodi, Maria Francesca Cracolici (2024) Model selection for mixture hidden Markov models: an
+		application to clickstream data \url{https://doi.org/10.1007/s00362-024-01608-3}
+		
+	\end{thebibliography}
 \end{document}

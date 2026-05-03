@@ -3,8 +3,12 @@
 \contentsline {subsection}{\numberline {1.1}Σαμπ-εισαγωγη}{2}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Σαμπ-σαμπ-εισαγωγή}{2}{subsubsection.1.1.1}%
 \contentsline {section}{\numberline {2}Προηγούμενες σχετικές μελέτες}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Model selection for mixture hidden Markov models: an application to clickstream data}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Σκοποί}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Προβλήματα και Τρόποι Αντιμετώπισης}{2}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Αποτελέσματα}{2}{subsubsection.2.1.3}%
 \contentsline {section}{\numberline {3}Προτεινόμενες τεχνικές}{2}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Θεωρητική περιγραφή}{2}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Υλοποίηση - Πειράματα}{2}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{2}{section.4}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{2}{section.5}%
+\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{3}{section.4}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{3}{section.5}%
