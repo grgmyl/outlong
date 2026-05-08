@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.5)  8 MAY 2026 16:16
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.5)  8 MAY 2026 17:11
  restricted system commands enabled.
 **outlong.tex
 (./outlong.tex
@@ -493,26 +493,26 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ) (./outlong.aux)
 \openout1 = outlong.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -520,66 +520,66 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 17.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 17.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 17.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 17.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 17.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 17.
-LaTeX Font Info:    Redeclaring math accent \check on input line 17.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 17.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
+LaTeX Font Info:    Redeclaring math accent \check on input line 14.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 17.
+(Font)              `operators' in the math version `normal' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
-7.
+4.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 17.
+(Font)              `operators' in the math version `bold' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-17.
+14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 17.
+input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 17.
+ 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-17.
+14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 17.
+input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 17.
+e 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 17.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 14.
 Package babel Info: Importing data for greek
-(babel)             from babel-el.ini. Reported on input line 17.
+(babel)             from babel-el.ini. Reported on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -652,26 +652,26 @@ Package color Info: Driver file: luatex.def on input line 149.
 
 (C:/Users/Georgia/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.lt
 x))
-Package hyperref Info: Link coloring ON on input line 17.
+Package hyperref Info: Link coloring ON on input line 14.
  (./outlong.out) (./outlong.out)
 \@outlinefile=\write3
 
 \openout3 = outlong.out
-<images/logo.png, id=71, 488.5452pt x 177.3024pt>
+<images/logo.png, id=63, 488.5452pt x 177.3024pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 26.
+Package luatex.def Info: images/logo.png  used on input line 20.
 (luatex.def)             Requested size: 182.09486pt x 66.08511pt.
  [1
 
 {C:/Users/Georgia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./images/log
 o.png>] (./outlong.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 4.
 )
 \tf@toc=\write4
 
@@ -681,94 +681,94 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 67.
+(hyperref)                removing `\@ifnextchar' on input line 56.
 
 
-Overfull \hbox (11.11526pt too wide) in paragraph at lines 73--74
+Overfull \hbox (11.11526pt too wide) in paragraph at lines 62--63
 []\TU/TimesNewRoman(0)/m/n/12 Τα MH-MMs προσφέρουν μια ουσι
 αστικότερη προσέγγιση στην ομαδοποίηση τω
 ν ακολουθιών
  []
 
 
-Overfull \hbox (9.55942pt too wide) in paragraph at lines 73--74
+Overfull \hbox (9.55942pt too wide) in paragraph at lines 62--63
 \TU/TimesNewRoman(0)/m/n/12 λανθανουσών μαρκοβιανών δι
 αδικασιών, καθεμία από τις οποίες αντιστοι
 χεί σε έναν διαφορετικό,
  []
 
 
-Overfull \hbox (3.25198pt too wide) in paragraph at lines 82--83
+Overfull \hbox (3.25198pt too wide) in paragraph at lines 71--72
 []\TU/TimesNewRoman(0)/b/n/12 Αξιολόγηση μέσω Monte Carlo προ
 σομοιώσεων: \TU/TimesNewRoman(0)/m/n/12 Οι συγγραφείς ε
 ξέτασαν την απόδοση
  []
 
 
-Overfull \hbox (8.40121pt too wide) in paragraph at lines 82--83
+Overfull \hbox (8.40121pt too wide) in paragraph at lines 71--72
 \TU/TimesNewRoman(0)/m/n/12 διάφορα σενάρια, μεταβάλλο
 ντας το μήκος των ακολουθιών και τον αριθμ
 ό των δεδομένων.
  []
 
 [2]
-Overfull \hbox (8.6207pt too wide) in paragraph at lines 88--89
+Overfull \hbox (8.6207pt too wide) in paragraph at lines 77--78
 []\TU/TimesNewRoman(0)/b/n/12 «Αναζητητής πληροφοριών» (I
 n-for-ma-tion seeker): \TU/TimesNewRoman(0)/m/n/12 Αποτελεί το 19% 
 των χρηστών.
  []
 
 
-Overfull \hbox (18.98282pt too wide) in paragraph at lines 90--91
+Overfull \hbox (18.98282pt too wide) in paragraph at lines 79--80
 \TU/TimesNewRoman(0)/m/n/12 αγοραστικές ενέργειες, όπω
 ς η εύρεση διαμονής (Ac-com-mo-da-tion) ή τοπικών εμ
 πειριών
  []
 
 
-Overfull \hbox (30.52347pt too wide) in paragraph at lines 95--96
+Overfull \hbox (30.52347pt too wide) in paragraph at lines 84--85
 \TU/TimesNewRoman(0)/m/n/12 διαχωρισμού μεταξύ των λαν
 θανουσών κλάσεων (δηλαδή των διαφορετικών 
 προφίλ που προκύπτουν). 
  []
 
 
-Overfull \hbox (2.21683pt too wide) in paragraph at lines 101--102
+Overfull \hbox (2.21683pt too wide) in paragraph at lines 90--91
 []\TU/TimesNewRoman(0)/b/n/12 Την παρατηρούμενη λογαριθ
 μική πιθανοφάνεια (log-likelihood): \TU/TimesNewRoman(0)/m/n/12
  Αξιολογεί τον βαθμό
  []
 
 [3]
-Overfull \hbox (23.61136pt too wide) in paragraph at lines 109--110
+Overfull \hbox (23.61136pt too wide) in paragraph at lines 98--99
 \TU/TimesNewRoman(0)/m/n/12 είναι πολύ πιο αποτελεσματ
 ική από τα παραδοσιακά κριτήρια όταν αναλύ
 ονται σύντομες ακολουθίες,
  []
 
 
-Overfull \hbox (14.7295pt too wide) in paragraph at lines 111--112
+Overfull \hbox (14.7295pt too wide) in paragraph at lines 100--101
 []\TU/TimesNewRoman(0)/m/n/12 Η ενσωμάτωση της εντροπία
 ς επιτρέπει στο μοντέλο να επιλέγει διαμορ
 φώσεις με τον καλύτερο
  []
 
 
-Overfull \hbox (1.28323pt too wide) in paragraph at lines 111--112
+Overfull \hbox (1.28323pt too wide) in paragraph at lines 100--101
 \TU/TimesNewRoman(0)/m/n/12 δυνατό διαχωρισμό τόσο μετ
 αξύ των διαφορετικών προφίλ χρηστών όσο κα
 ι μεταξύ των κρυφών
  []
 
 
-Overfull \hbox (2.02022pt too wide) in paragraph at lines 111--112
+Overfull \hbox (2.02022pt too wide) in paragraph at lines 100--101
 \TU/TimesNewRoman(0)/m/n/12 επιχειρήσεις ηλεκτρονικού 
 εμπορίου πολύτιμες γνώσεις για τη στρατηγ
 ική τους. Αυτό συμβαίνει
  []
 
 
-Overfull \hbox (10.88168pt too wide) in paragraph at lines 111--112
+Overfull \hbox (10.88168pt too wide) in paragraph at lines 100--101
 \TU/TimesNewRoman(0)/m/n/12 καταστάσεις), αλλά και τους 
 πιθανούς λόγους για τους οποίους πλοηγούν
 ται με έναν συγκεκριμένο
@@ -776,128 +776,132 @@ Overfull \hbox (10.88168pt too wide) in paragraph at lines 111--112
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 115.
+(hyperref)                removing `\@ifnextchar' on input line 104.
 
 
-Overfull \hbox (3.58401pt too wide) in paragraph at lines 120--121
+Overfull \hbox (3.58401pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 Σκοπός της εργασίας ήταν η 
 ανάπτυξη μιας νέας μεθόδου αναπαράστασης 
 δεδομένων πλοήγησης
  []
 
 
-Overfull \hbox (19.111pt too wide) in paragraph at lines 120--121
+Overfull \hbox (19.111pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 χρηστών (click-stream), με την ονο
 μασία Pat-tern2Vec, με στόχο την αποτελεσματικότ
 ερη κατανόηση
  []
 
 
-Overfull \hbox (10.81528pt too wide) in paragraph at lines 120--121
+Overfull \hbox (10.81528pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 δεδομένα, τα οποία δεν μπορ
 ούν να αξιοποιηθούν άμεσα από αλγορίθμους 
 μηχανικής μάθησης.Για
  []
 
 
-Overfull \hbox (36.63168pt too wide) in paragraph at lines 120--121
+Overfull \hbox (36.63168pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 τον λόγο αυτό, προτείνεται 
 η μετατροπή των ακολουθιών πλοήγησης σε δι
 ανυσματικές αναπαραστάσεις
  []
 
 
-Overfull \hbox (3.05276pt too wide) in paragraph at lines 120--121
+Overfull \hbox (3.05276pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 αποτελέσματα έδειξαν ότι η 
 προτεινόμενη μέθοδος υπερτερεί έναντι υπα
 ρχουσών προσεγγίσεων,
  []
 
 
-Overfull \hbox (1.86165pt too wide) in paragraph at lines 120--121
+Overfull \hbox (1.86165pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 όπως οι Word2Vec, Deep-Walk και Node2Vec. 
 Συγκεκριμένα, παρουσίασε υψηλότερες επιδό
 σεις
  []
 
 
-Overfull \hbox (11.35043pt too wide) in paragraph at lines 120--121
+Overfull \hbox (11.35043pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(0)/m/n/12 πληρότητα (com-plete-ness), επιτυγ
 χάνοντας ποσοστά που προσεγγίζουν το 95 τοι
 ς εκατό.Επιπλέον,
  []
 
 
-Overfull \hbox (25.23715pt too wide) in paragraph at lines 124--125
+Overfull \hbox (25.23715pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 Αρχικά, συλλέχθηκαν δεδομέ
 να click-stream από πραγματική ιστοσελίδα του ηλ
 εκτρονικού εμπορίου.
  []
 
 
-Overfull \hbox (3.35239pt too wide) in paragraph at lines 124--125
+Overfull \hbox (3.35239pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια πραγματοποιήθ
 ηκε η προεπεξεργασία δεδομένων, η οποία πε
 ριλάμβανε καθαρισμό
  []
 
 
-Overfull \hbox (3.94498pt too wide) in paragraph at lines 124--125
+Overfull \hbox (3.94498pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 κανονικών εκφράσεων, ώστε ν
 α αντιστοιχιστούν σε γενικότερες κατηγορί
 ες.Έπειτα, τα δεδομένα
  []
 
 
-Overfull \hbox (2.1434pt too wide) in paragraph at lines 124--125
+Overfull \hbox (2.1434pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 οργανώθηκαν σε συνεδρίες π
 λοήγησης (ses-sions), λαμβάνοντας υπόψη χρονικο
 ύς περιορισμούς,
  []
 
 
-Overfull \hbox (29.071pt too wide) in paragraph at lines 124--125
+Overfull \hbox (29.071pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 όπως το μέγιστο χρονικό διά
 στημα μεταξύ διαδοχικών ενεργειών. Με αυτό
 ν τον τρόπο εξασφαλίστηκε
  []
 
 
-Overfull \hbox (12.69223pt too wide) in paragraph at lines 124--125
+Overfull \hbox (12.69223pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 ότι οι ακολουθίες αντανακλ
 ούν την ρεαλιστική συμπεριφορά χρηστών.Στ
 η συνέχεια, εφαρμόστηκε
  []
 
 
-Overfull \hbox (36.54886pt too wide) in paragraph at lines 124--125
+Overfull \hbox (36.54886pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 πραγματοποιήθηκε φιλτράρι
 σμα για την απομάκρυνση πλεοναζόντων ή επι
 καλυπτόμενων προτύπων.Το
  []
 
 
-Overfull \hbox (13.68832pt too wide) in paragraph at lines 124--125
+Overfull \hbox (13.68832pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 διανυσματικές αναπαραστάσ
 εις τύπου Word2Vec, αλλά διαφοροποιείται στο ό
 τι εισάγει μηχανισμό
  []
 
 [4]
-Overfull \hbox (40.78793pt too wide) in paragraph at lines 128--129
+Overfull \hbox (40.78793pt too wide) in paragraph at lines 117--118
 \TU/TimesNewRoman(0)/m/n/12 (fun-nel anal-y-sis) και η αυτοματοπ
 οίηση δοκιμής διεπαφής λογισμικού.Τέλος, π
 ροτείνονται κατευθύνσεις
  []
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 119.
+
 [5]
-Underfull \hbox (badness 2384) in paragraph at lines 156--157
+Underfull \hbox (badness 2384) in paragraph at lines 142--143
 []\TU/TimesNewRoman(0)/m/n/12 Gau-tam Pal, Katie Atkin-son, Gang-min Li (2023) 
 Real-time user click-stream be-
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 156--157
+Underfull \hbox (badness 7012) in paragraph at lines 142--143
 \TU/TimesNewRoman(0)/m/n/12 hav-ior anal-y-sis based on apache storm stream-ing [][]$\TU/lmtt/m/n/12 https://doi.org/10.1007/
  []
 
@@ -913,18 +917,18 @@ Package rerunfilecheck Warning: File `outlong.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `outlong.out':
-(rerunfilecheck)             Before: D4561F35B0F719F42C39394E14905DC8;4045
-(rerunfilecheck)             After:  297806401B748486B08D07620C924ADB;4028.
+(rerunfilecheck)             Before: C28827896F5C46EBFEBBDD3EC77BB7A1;4307
+(rerunfilecheck)             After:  B5911FAEE8EA472733964744CCC547C9;4839.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14363 strings out of 476081
+ 14364 strings out of 476081
  100000,794899 words of node,token memory allocated
- 505 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 15 attribute, 52 glue_spec
-, 9 attribute_list, 1 write, 4 pdf_action nodes
-   avail lists: 2:586,3:190,4:136,5:255,6:51,7:7613,8:42,9:297,10:7,11:86
- 36526 multiletter control sequences out of 65536+600000
+ 529 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 19 attribute, 52 glue_spec
+, 11 attribute_list, 1 write, 6 pdf_action nodes
+   avail lists: 2:535,3:176,4:128,5:255,6:44,7:7613,8:62,9:279,10:9,11:118
+ 36525 multiletter control sequences out of 65536+600000
  47 fonts using 16306799 bytes
  73i,5n,92p,3018b,429s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/georgia/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono1
@@ -932,9 +936,9 @@ Here is how much of LuaTeX's memory you used:
 s/Georgia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pf
 b><C:/Users/Georgia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmmi8.pfb>
-Output written on outlong.pdf (7 pages, 537845 bytes).
+Output written on outlong.pdf (7 pages, 543733 bytes).
 
-PDF statistics: 179 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 1048576)
- 137 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 180 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 1048576)
+ 121 words of extra memory for PDF output out of 10000 (max. 100000000)
 
