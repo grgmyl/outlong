@@ -1,5 +1,4 @@
 \babel@toc {english}{}\relax 
-\babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
 \contentsline {section}{\numberline {2}Προηγούμενες σχετικές μελέτες}{2}{section.2}%
 \contentsline {section}{\numberline {3}Βασική ανάλυση}{2}{section.3}%
@@ -7,13 +6,17 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Σκοπός της Έρευνας}{2}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Μεθοδολογία}{3}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Συμπεράσματα}{4}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Pattern2Vec: Representation of clickstream data sequences for learning user navigational behavior \cite {Pat2Vec}}{4}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Σκοπός της έρευνας}{4}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2}Real-time user clickstream behavior analysis based on apache storm streaming}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Σκοπός της Έρευνας}{4}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Μεθοδολογία}{4}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3}Συμπεράσματα}{5}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3}Exclusive Item Recommendation to the Online Shopping Customers Based on Category Using Clickstream and UID Matrix, 2023 \cite {EIR}}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Pattern2Vec: Representation of clickstream data sequences for learning user navigational behavior \cite {Pat2Vec}}{5}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Σκοπός της έρευνας}{5}{subsubsection.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Μεθοδολογία}{5}{subsubsection.3.3.2}%
 \contentsline {subsubsection}{\numberline {3.3.3}Συμπεράσματα}{6}{subsubsection.3.3.3}%
-\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{6}{section.4}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{6}{section.5}%
+\contentsline {subsection}{\numberline {3.4}Exclusive Item Recommendation to the Online Shopping Customers Based on Category Using Clickstream and UID Matrix, 2023 \cite {EIR}}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Σκοπός της έρευνας}{6}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Μεθοδολογία}{6}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Συμπεράσματα}{7}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{7}{section.4}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{7}{section.5}%
