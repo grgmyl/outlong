@@ -12,11 +12,11 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Συμπεράσματα}{5}{subsubsection.3.2.3}%
 \contentsline {subsection}{\numberline {3.3}Pattern2Vec: Representation of clickstream data sequences for learning user navigational behavior \cite {Pat2Vec}}{5}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Σκοπός της έρευνας}{5}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Μεθοδολογία}{5}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2}Μεθοδολογία}{6}{subsubsection.3.3.2}%
 \contentsline {subsubsection}{\numberline {3.3.3}Συμπεράσματα}{6}{subsubsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.4}Exclusive Item Recommendation to the Online Shopping Customers Based on Category Using Clickstream and UID Matrix, 2023 \cite {EIR}}{6}{subsection.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.1}Σκοπός της έρευνας}{6}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Μεθοδολογία}{6}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2}Μεθοδολογία}{7}{subsubsection.3.4.2}%
 \contentsline {subsubsection}{\numberline {3.4.3}Συμπεράσματα}{7}{subsubsection.3.4.3}%
 \contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{7}{section.4}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{7}{section.5}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{8}{section.5}%
