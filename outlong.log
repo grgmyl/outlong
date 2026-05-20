@@ -1,18 +1,18 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2026.5.5)  16 MAY 2026 18:46
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.31)  20 MAY 2026 18:50
  restricted system commands enabled.
 **outlong.tex
 (./outlong.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-10-09>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
 collection.
-luaotfload | conf : Root cache directory is "/home/jim/.texlive2025/texmf-var/lu
-atex-cache/generic/names".
+luaotfload | conf : Root cache directory is "C:/Users/dimit/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
-12-28.lua".
+olved path "C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/home/jim/.texlive2025/texmf-var/lu
-atex-cache/generic/names".
+luaotfload | conf : Root cache directory is "C:/Users/dimit/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -39,200 +39,230 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
-mf-dist/tex/latex/base/article.cls
-Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/jim/.texlive2025/texmf-v
-ar/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count194
-\c@section=\count195
-\c@subsection=\count196
-\c@subsubsection=\count197
-\c@paragraph=\count198
-\c@subparagraph=\count199
-\c@figure=\count266
-\c@table=\count267
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/dimit/AppData
+/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/dimit/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count273
+\c@section=\count274
+\c@subsection=\count275
+\c@subsubsection=\count276
+\c@paragraph=\count277
+\c@subparagraph=\count278
+\c@figure=\count279
+\c@table=\count280
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen140
+\bibindent=\dimen147
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-01-18 L3 programming layer (loader) 
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
+e.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-10-09 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count268
-Inserting `l3color' in `luaotfload.parse_color'.
-\l__pdf_internal_box=\box52
-))
-Package: xparse 2024-08-16 L3 Experimental document command parser
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count281
+Inserting `l3color' in `luaotfload.parse_color'.))
+Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
+x.sty
+Package: fontspec-luatex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count269
-\l__fontspec_language_int=\count270
-\l__fontspec_strnum_int=\count271
-\l__fontspec_tmp_int=\count272
-\l__fontspec_tmpa_int=\count273
-\l__fontspec_tmpb_int=\count274
-\l__fontspec_tmpc_int=\count275
-\l__fontspec_em_int=\count276
-\l__fontspec_emdef_int=\count277
-\l__fontspec_strong_int=\count278
-\l__fontspec_strongdef_int=\count279
-\l__fontspec_tmpa_dim=\dimen141
-\l__fontspec_tmpb_dim=\dimen142
-\l__fontspec_tmpc_dim=\dimen143
+\l__fontspec_script_int=\count282
+\l__fontspec_language_int=\count283
+\l__fontspec_strnum_int=\count284
+\l__fontspec_tmp_int=\count285
+\l__fontspec_tmpa_int=\count286
+\l__fontspec_tmpb_int=\count287
+\l__fontspec_tmpc_int=\count288
+\l__fontspec_em_int=\count289
+\l__fontspec_emdef_int=\count290
+\l__fontspec_strong_int=\count291
+\l__fontspec_strongdef_int=\count292
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+ (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
+))) (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
+Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
-\l@dumylang=\language2
+\l@afrikaans=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@nohyphenation=\language3
-\l@tamil=\language4
-\l@coptic=\language5
-\l@dutch=\language6
-\l@friulan=\language7
-\l@slovak=\language8
-\l@italian=\language9
-\l@interlingua=\language10
-\l@assamese=\language11
-\l@pali=\language12
-\l@monogreek=\language13
-\l@schoolfinnish=\language14
-\l@latin=\language15
-\l@ethiopic=\language16
-\l@armenian=\language17
-\l@hebrew=\language18
-\l@finnish=\language19
-\l@french=\language20
-\l@farsi=\language21
-\l@romansh=\language22
-\l@churchslavonic=\language23
-\l@basque=\language24
-\l@kannada=\language25
-\l@serbian=\language26
-\l@hindi=\language27
-\l@swedish=\language28
-\l@classiclatin=\language29
-\l@esperanto=\language30
-\l@macedonian=\language31
-\l@georgian=\language32
-\l@piedmontese=\language33
-\l@usenglishmax=\language34
-\l@liturgicallatin=\language35
-\l@croatian=\language36
-\l@ibycus=\language37
-\l@indonesian=\language38
-\l@malayalam=\language39
-\l@greek=\language40
-\l@serbianc=\language41
-\l@oriya=\language42
-\l@thai=\language43
-\l@czech=\language44
-\l@icelandic=\language45
-\l@estonian=\language46
-\l@ukenglish=\language47
-\l@slovenian=\language48
-\l@uppersorbian=\language49
-\l@galician=\language50
-\l@nynorsk=\language51
-\l@danish=\language52
-\l@german-x-2024-02-28=\language53
-\l@vietnamese=\language54
-\l@panjabi=\language55
-\l@mongolianlmc=\language56
-\l@bokmal=\language57
-\l@ancientgreek=\language58
-\l@romanian=\language59
-\l@irish=\language60
-\l@telugu=\language61
-\l@german=\language62
-\l@lithuanian=\language63
-\l@ngerman=\language64
-\l@kurmanji=\language65
-\l@polish=\language66
-\l@russian=\language67
-\l@sanskrit=\language68
-\l@swissgerman=\language69
-\l@latvian=\language70
-\l@arabic=\language71
-\l@portuguese=\language72
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
 \l@turkmen=\language73
-\l@afrikaans=\language74
-\l@hungarian=\language75
-\l@albanian=\language76
-\l@occitan=\language77
-\l@spanish=\language78
-\l@pinyin=\language79
-\l@marathi=\language80
-\l@ukrainian=\language81
-\l@turkish=\language82
-\l@bulgarian=\language83
-\l@mongolian=\language84
-\l@catalan=\language85
-\l@bengali=\language86
-\l@ngerman-x-2024-02-28=\language87
-\l@welsh=\language88
-\l@belarusian=\language89
-\l@gujarati=\language90
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
-\babel@savecnt=\count280
-\U@D=\dimen144
-\l@unhyphenated=\language91
+\babel@savecnt=\count293
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2050.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2052.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2054.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2055.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2056.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2058.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2083.
+\U@D=\dimen151
+\l@unhyphenated=\language79
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
-Language: greek 2023/10/13 1.15 Greek support for the babel system
-\bbl@monogreek=\count281
-\bbl@polygreek=\count282
-\bbl@ancientgreek=\count283
 
-(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/tuenc-greek.def
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/el/babel
+-greek.tex)
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel
+-english.tex)
+Package babel Info: Importing font and identification data for greek
+(babel)             from babel-el.ini. Reported on input line 4295.
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/babel-greek/greek.ldf
+Language: greek 2023/10/13 1.15 Greek support for the babel system
+\bbl@monogreek=\count294
+\bbl@polygreek=\count295
+\bbl@ancientgreek=\count296
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/tuenc-gre
+ek.def
 File: tuenc-greek.def 2023-09-12 2.5 Greek LICRs for XeTeX and LuaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/greek-fon
+tenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-))
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-el-polyt
-on.tex UTF-8 Hyphenation patterns for multi-accent (polytonic) Modern Greek
-(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-el-polyt
-on.tex))) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+)
+LaTeX Encoding Info:    Redeclaring text symbol \textmu (encoding TU) on input 
+line 215.
+LaTeX Encoding Info:    Redeclaring text symbol \textohm (encoding TU) on input
+ line 350.
+)
+LaTeX Encoding Info:    Ignoring declaration for text command \textmugreek (enc
+oding TU) on input line 638.
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/lo
+adhyph-el-polyton.tex
+UTF-8 Hyphenation patterns for multi-accent (polytonic) Modern Greek
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/te
+x/hyph-el-polyton.tex)))
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4295.
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/babel-english/english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language47). Reported on input line 105.
+(babel)             (\language74). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language47). Reported on input line 108.
-)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
-Package babel Info: Importing font and identification data for greek
-(babel)             from babel-el.ini. Reported on input line 11.
-)
-luaotfload | cache : Lookup cache loaded from /home/jim/.texlive2025/texmf-var/l
-uatex-cache/generic/names/luaotfload-lookup-cache.luc.
+(babel)             (\language74). Reported on input line 108.
+))
+luaotfload | cache : Lookup cache loaded from C:/Users/dimit/AppData/Local/MiKTe
+X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: 
 (fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
@@ -242,81 +272,102 @@ Package fontspec Info:
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Times New
-(fontspec)             Roman:mode=node;language=dflt;+tlig;"
+(fontspec)             Roman:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"name:Times
+(fontspec)             New
+(fontspec)             Roman:mode=node;script=latn;language=dflt;+tlig;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"name:Times New
-(fontspec)             Roman/B:mode=node;language=dflt;+tlig;"
+(fontspec)             Roman/B:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:Times New
+(fontspec)             Roman/B:mode=node;script=latn;language=dflt;+tlig;+smcp;
+"
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"name:Times New
-(fontspec)             Roman/I:mode=node;language=dflt;+tlig;"
+(fontspec)             Roman/I:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"name:Times New
+(fontspec)             Roman/I:mode=node;script=latn;language=dflt;+tlig;+smcp;
+"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"name:Times
-(fontspec)             New Roman/BI:mode=node;language=dflt;+tlig;"
+(fontspec)             New
+(fontspec)             Roman/BI:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"name:Times New
+(fontspec)             Roman/BI:mode=node;script=latn;language=dflt;+tlig;+smcp
+;"
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count284
-\Gm@cntv=\count285
-\c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen145
-\Gm@wd@mp=\dimen146
-\Gm@odd@mp=\dimen147
-\Gm@even@mp=\dimen148
-\Gm@layoutwidth=\dimen149
-\Gm@layoutheight=\dimen150
-\Gm@layouthoffset=\dimen151
-\Gm@layoutvoffset=\dimen152
+\Gm@cnth=\count297
+\Gm@cntv=\count298
+\c@Gm@tempcnt=\count299
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 106.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2025/09/29 v1.2f Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen153
-\Gin@req@width=\dimen154
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -324,120 +375,116 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks19
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count287
+\c@section@level=\count300
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count288
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count301
 )
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen155
-\Hy@linkcounter=\count289
-\Hy@pagecounter=\count290
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+\@linkdim=\dimen162
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
+ (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+) (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count291
+\Hy@SavedSpaceFactor=\count304
+ (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/puenc-gre
+ek.def
 File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
 
-(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/greek-fontenc/greek-fon
+tenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
-)))
-Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
-Package hyperref Info: Hyper figures OFF on input line 4157.
-Package hyperref Info: Link nesting OFF on input line 4162.
-Package hyperref Info: Hyper index ON on input line 4165.
-Package hyperref Info: Plain pages OFF on input line 4172.
-Package hyperref Info: Backreferencing OFF on input line 4177.
+)
+LaTeX Encoding Info:    Redeclaring text command \textmu (encoding PU) on input
+ line 179.
+)
+LaTeX Encoding Info:    Redeclaring text command \textohm (encoding PU) on inpu
+t line 1176.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count292
-
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count305
+ (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen156
-
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen163
+ (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count293
-\Field@Width=\dimen157
-\Fld@charsize=\dimen158
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring ON on input line 6060.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count294
-\c@Item=\count295
-\c@Hfootnote=\count296
+\Fld@menulength=\count306
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring ON on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count307
+\c@Item=\count308
+\c@Hfootnote=\count309
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2025-07-12 v7.01o Hyperref driver for luaTeX
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
-)
-\Fld@listcount=\count297
-\c@bookmark@seq@number=\count298
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+84.
 )
 \Hy@SectionHShift=\skip51
-)
-(./outlong.aux)
+) (./outlong.aux)
 \openout1 = outlong.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -560,44 +607,44 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen159
+\scratchcounter=\count312
+\scratchdimen=\dimen166
 \scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count313
+\nofMParguments=\count314
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen160
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen167
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks21
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+)
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: luatex.def on input line 149.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(C:/Users/dimit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 14.
-
-(./outlong.out) (./outlong.out)
+ (./outlong.out) (./outlong.out)
 \@outlinefile=\write3
 
 \openout3 = outlong.out
-<images/logo.png, id=88, 488.5452pt x 177.3024pt>
+<images/logo.png, id=123, 488.5452pt x 177.3024pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 20.
@@ -606,8 +653,8 @@ Package luatex.def Info: images/logo.png  used on input line 20.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./images/logo.png>]
-(./outlong.toc
+{C:/Users/dimit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./images/logo.
+png>] (./outlong.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -623,33 +670,284 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1]
+Overfull \hbox (24.26956pt too wide) in paragraph at lines 53--54
+\TU/TimesNewRoman(0)/m/n/12 αναγνώριση προτύπων πλοήγη
+σης και την αξιοποίηση των ακολουθιών κλικ 
+για τη λήψη αποφάσεων.
+ []
+
+
+Overfull \hbox (7.60043pt too wide) in paragraph at lines 53--54
+\TU/TimesNewRoman(0)/m/n/12 ενεργειών, αλλά μια πλούσια 
+πηγή πληροφορίας για την ερμηνεία της συμπ
+εριφοράς των χρηστών
+ []
+
+
+Overfull \hbox (32.43246pt too wide) in paragraph at lines 55--56
+[]\TU/TimesNewRoman(0)/m/n/12 Στην παρούσα ενότητα παρο
+υσιάζονται δύο χαρακτηριστικές εργασίες, 
+οι οποίες αντιπροσωπεύουν
+ []
+
+
+Overfull \hbox (27.9743pt too wide) in paragraph at lines 55--56
+\TU/TimesNewRoman(0)/m/n/12 δύο διαφορετικές αλλά συμπ
+ληρωματικές προσεγγίσεις. Η πρώτη επικεντ
+ρώνεται στη μοντελοποίηση
+ []
+
+
+Overfull \hbox (5.65985pt too wide) in paragraph at lines 55--56
+\TU/TimesNewRoman(0)/m/n/12 μέσω της ανάλυσης ακολουθι
+ών click-stream. Η δεύτερη δίνει έμφαση στην τεχν
+ολογική υποδομή
+ []
+
+
+Overfull \hbox (17.32114pt too wide) in paragraph at lines 55--56
+\TU/TimesNewRoman(0)/m/n/12 που απαιτείται για τη συλλο
+γή, επεξεργασία και οπτικοποίηση των δεδομ
+ένων αυτών σε πραγματικό
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 55.
+(hyperref)                removing `\@ifnextchar' on input line 57.
 
 
-Overfull \hbox (12.46878pt too wide) in paragraph at lines 61--62
+Overfull \hbox (9.43558pt too wide) in paragraph at lines 61--62
+\TU/TimesNewRoman(0)/m/n/12 επαρκή πληροφορία ώστε να κ
+αταστεί δυνατός ο εντοπισμός διαφορετικών 
+προφίλ συμπεριφοράς,
+ []
+
+
+Overfull \hbox (19.75589pt too wide) in paragraph at lines 61--62
+\TU/TimesNewRoman(0)/m/n/12 με προσεγγίσεις που επικεν
+τρώνονται αποκλειστικά σε μεμονωμένες ενέ
+ργειες ή σε απλά στατιστικά
+ []
+
+
+Overfull \hbox (39.47153pt too wide) in paragraph at lines 63--64
+[]\TU/TimesNewRoman(0)/m/n/12 Πιο συγκεκριμένα, οι συγγρ
+αφείς επιδιώκουν αφενός την ανίχνευση κακ
+όβουλων ή παραπλανητικών
+ []
+
+
+Overfull \hbox (1.8981pt too wide) in paragraph at lines 63--64
+\TU/TimesNewRoman(0)/m/n/12 λογαριασμών, όπως οι λογαρι
+ασμοί τύπου Sybil, και αφετέρου την κατανόηση 
+των λανθανόντων
+ []
+
+
+Overfull \hbox (28.25198pt too wide) in paragraph at lines 63--64
+\TU/TimesNewRoman(0)/m/n/12 αλλά επεκτείνεται και στην 
+ευρύτερη ερμηνεία της ανθρώπινης πλοήγηση
+ς σε ψηφιακά περιβάλλοντα.
+ []
+
+
+Overfull \hbox (21.49483pt too wide) in paragraph at lines 67--68
+\TU/TimesNewRoman(0)/m/n/12 που προέρχονται από τις πλα
+τφόρμες Ren-ren και Whis-per. Οι συγγραφείς εξετάζ
+ουν τη συμπεριφορά
+ []
+
+
+
+[2]
+Overfull \hbox (6.35043pt too wide) in paragraph at lines 69--70
+[]\TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια, προτείνοντα
+ι τρεις διαφορετικές αναπαραστάσεις των click
+-stream ακολουθιών:
+ []
+
+
+Overfull \hbox (0.74692pt too wide) in paragraph at lines 69--70
+\TU/TimesNewRoman(0)/m/n/12 η αναπαράσταση click-sequence, η χ
+ρονική αναπαράσταση (time-based model) και ένα υβρ
+ιδικό
+ []
+
+
+Overfull \hbox (12.9805pt too wide) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/12 δεδομένα μπορούν να ταξινο
+μούνται χωρίς να απαιτείται πλήρης επανεκ
+παίδευση του συστήματος.
+ []
+
+
+Overfull \hbox (0.71468pt too wide) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/12 Η μεθοδολογία αυτή παρουσι
+άζει ιδιαίτερο ενδιαφέρον, επειδή συνδυάζ
+ει τεχνικές αναγνώρισης
+ []
+
+
+Overfull \hbox (23.0723pt too wide) in paragraph at lines 75--76
+\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
+ας αναδεικνύουν ότι τα click-stream δεδομένα μπο
+ρούν να αξιοποιηθούν
+ []
+
+
+Overfull \hbox (3.90042pt too wide) in paragraph at lines 75--76
+\TU/TimesNewRoman(0)/m/n/12 αποτελεσματικά τόσο για τη
+ν αναγνώριση κακόβουλων λογαριασμών όσο κ
+αι για την κατανόηση
+ []
+
+
+Overfull \hbox (50.67776pt too wide) in paragraph at lines 75--76
+\TU/TimesNewRoman(0)/m/n/12 που ενσωματώνεται στις ίδι
+ες τις ακολουθίες είναι επαρκής για την εξ
+αγωγή ουσιαστικών συμπερασμάτων.
+ []
+
+
+Overfull \hbox (21.03012pt too wide) in paragraph at lines 75--76
+\TU/TimesNewRoman(0)/m/n/12 ακολουθιών μπορούν να αποδ
+ειχθούν ιδιαίτερα αποτελεσματικές, όταν σ
+υνδυάζονται με κατάλληλες
+ []
+
+
+Overfull \hbox (7.35725pt too wide) in paragraph at lines 77--78
+[]\TU/TimesNewRoman(0)/m/n/12 Η συγκεκριμένη εργασία εί
+ναι ιδιαίτερα σημαντική για την παρούσα με
+λέτη, διότι μετατοπίζει
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 79.
+
+
+Overfull \hbox (0.64651pt too wide) in paragraph at lines 83--84
+\TU/TimesNewRoman(0)/m/n/12 αρχιτεκτονικής για την ανά
+λυση και οπτικοποίηση click-stream δεδομένων σε 
+πραγματικό χρόνο.
+ []
+
+
+Overfull \hbox (21.14651pt too wide) in paragraph at lines 83--84
+\TU/TimesNewRoman(0)/m/n/12 Σε αντίθεση με μελέτες που 
+δίνουν έμφαση κυρίως στη θεωρητική μοντελ
+οποίηση της συμπεριφοράς
+ []
+
+
+Overfull \hbox (6.70004pt too wide) in paragraph at lines 83--84
+\TU/TimesNewRoman(0)/m/n/12 των χρηστών, η συγκεκριμένη 
+εργασία επικεντρώνεται στην τεχνολογική υ
+ποδομή που απαιτείται
+ []
+
+
+
+[3]
+Overfull \hbox (21.24513pt too wide) in paragraph at lines 85--86
+[]\TU/TimesNewRoman(0)/m/n/12 Η μελέτη τοποθετεί το click-stre
+am anal-y-sis στο πλαίσιο του busi-ness in-tel-li-gence και α
+ναδεικνύει
+ []
+
+
+Overfull \hbox (1.62404pt too wide) in paragraph at lines 89--90
+\TU/TimesNewRoman(0)/m/n/12 Η προτεινόμενη μεθοδολογία 
+βασίζεται σε μια αρχιτεκτονική ροής δεδομ
+ένων που περιλαμβάνει
+ []
+
+
+Overfull \hbox (2.08249pt too wide) in paragraph at lines 91--92
+\TU/TimesNewRoman(0)/m/n/12 αριθμός των clicks, η γεωγραφι
+κή προέλευση των επισκεπτών, ο χρόνος παρα
+μονής, οι συσκευές
+ []
+
+
+Overfull \hbox (0.91164pt too wide) in paragraph at lines 91--92
+\TU/TimesNewRoman(0)/m/n/12 πρόσβασης και τα συχνότερα 
+μονοπάτια πλοήγησης. Με τον τρόπο αυτό, η ε
+ργασία παρουσιάζει
+ []
+
+
+Overfull \hbox (7.09503pt too wide) in paragraph at lines 91--92
+\TU/TimesNewRoman(0)/m/n/12 δεδομένων, αλλά επεκτείνετ
+αι στην άμεση επιχειρησιακή αξιοποίησή το
+υς. Η έμφαση, επομένως,
+ []
+
+
+Overfull \hbox (21.49612pt too wide) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
+ας καταδεικνύουν ότι η ανάλυση click-stream δεδο
+μένων σε πραγματικό
+ []
+
+
+Overfull \hbox (5.68312pt too wide) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 υπηρεσιών και ψηφιακών πλα
+τφορμών. Συνεπώς, η συνεισφορά της εργασία
+ς εντοπίζεται κυρίως
+ []
+
+
+Overfull \hbox (13.08467pt too wide) in paragraph at lines 97--98
+\TU/TimesNewRoman(0)/m/n/12 της ερμηνείας των δεδομένω
+ν. Ενώ άλλες έρευνες εστιάζουν περισσότερο 
+στην εξαγωγή προτύπων
+ []
+
+
+Overfull \hbox (19.50278pt too wide) in paragraph at lines 97--98
+\TU/TimesNewRoman(0)/m/n/12 και στη συμπεριφορική ανάλ
+υση, η παρούσα εργασία υπενθυμίζει ότι η πο
+ιότητα και η χρηστικότητα
+ []
+
+
+Overfull \hbox (1.43703pt too wide) in paragraph at lines 97--98
+\TU/TimesNewRoman(0)/m/n/12 παρουσίαση των δεδομένων. Γ
+ια τον λόγο αυτό, αποτελεί ουσιαστικό συμπ
+λήρωμα των μελετών
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 105.
+
+
+
+[4]
+Overfull \hbox (11.11526pt too wide) in paragraph at lines 111--112
 []\TU/TimesNewRoman(0)/m/n/12 Τα MH-MMs προσφέρουν μια ουσι
 αστικότερη προσέγγιση στην ομαδοποίηση τω
 ν ακολουθιών
  []
 
 
-Overfull \hbox (10.2977pt too wide) in paragraph at lines 61--62
+Overfull \hbox (9.55942pt too wide) in paragraph at lines 111--112
 \TU/TimesNewRoman(0)/m/n/12 λανθανουσών μαρκοβιανών δι
 αδικασιών, καθεμία από τις οποίες αντιστοι
 χεί σε έναν διαφορετικό,
  []
 
 
-Overfull \hbox (3.25198pt too wide) in paragraph at lines 70--71
+Overfull \hbox (3.25198pt too wide) in paragraph at lines 120--121
 []\TU/TimesNewRoman(0)/b/n/12 Αξιολόγηση μέσω Monte Carlo προ
 σομοιώσεων: \TU/TimesNewRoman(0)/m/n/12 Οι συγγραφείς ε
 ξέτασαν την απόδοση
  []
 
 
-Overfull \hbox (9.03403pt too wide) in paragraph at lines 70--71
+Overfull \hbox (8.40121pt too wide) in paragraph at lines 120--121
 \TU/TimesNewRoman(0)/m/n/12 διάφορα σενάρια, μεταβάλλο
 ντας το μήκος των ακολουθιών και τον αριθμ
 ό των δεδομένων.
@@ -657,108 +955,101 @@ Overfull \hbox (9.03403pt too wide) in paragraph at lines 70--71
 
 
 
-[2]
-Overfull \hbox (10.51913pt too wide) in paragraph at lines 76--77
+[5]
+Overfull \hbox (8.6207pt too wide) in paragraph at lines 126--127
 []\TU/TimesNewRoman(0)/b/n/12 «Αναζητητής πληροφοριών» (I
 n-for-ma-tion seeker): \TU/TimesNewRoman(0)/m/n/12 Αποτελεί το 19% 
 των χρηστών.
  []
 
 
-Overfull \hbox (19.29337pt too wide) in paragraph at lines 78--79
+Overfull \hbox (18.98282pt too wide) in paragraph at lines 128--129
 \TU/TimesNewRoman(0)/m/n/12 αγοραστικές ενέργειες, όπω
 ς η εύρεση διαμονής (Ac-com-mo-da-tion) ή τοπικών εμ
 πειριών
  []
 
 
-Overfull \hbox (0.15512pt too wide) in paragraph at lines 83--84
-\TU/TimesNewRoman(0)/m/n/12 υπάρχει εκ των προτέρων γνώ
-ση για τα δεδομένα, η επιλογή βασίζεται συν
-ήθως σε παραδοσιακά
- []
-
-
-Overfull \hbox (30.89261pt too wide) in paragraph at lines 83--84
+Overfull \hbox (30.52347pt too wide) in paragraph at lines 133--134
 \TU/TimesNewRoman(0)/m/n/12 διαχωρισμού μεταξύ των λαν
 θανουσών κλάσεων (δηλαδή των διαφορετικών 
 προφίλ που προκύπτουν). 
  []
 
 
-Overfull \hbox (3.70511pt too wide) in paragraph at lines 89--90
+Overfull \hbox (2.21683pt too wide) in paragraph at lines 139--140
 []\TU/TimesNewRoman(0)/b/n/12 Την παρατηρούμενη λογαριθ
 μική πιθανοφάνεια (log-likelihood): \TU/TimesNewRoman(0)/m/n/12
  Αξιολογεί τον βαθμό
  []
 
 
-Overfull \hbox (24.4141pt too wide) in paragraph at lines 97--98
+Overfull \hbox (23.61136pt too wide) in paragraph at lines 147--148
 \TU/TimesNewRoman(0)/m/n/12 είναι πολύ πιο αποτελεσματ
 ική από τα παραδοσιακά κριτήρια όταν αναλύ
 ονται σύντομες ακολουθίες,
  []
 
 
-
-[3]
-Overfull \hbox (15.25685pt too wide) in paragraph at lines 99--100
+Overfull \hbox (14.7295pt too wide) in paragraph at lines 149--150
 []\TU/TimesNewRoman(0)/m/n/12 Η ενσωμάτωση της εντροπία
 ς επιτρέπει στο μοντέλο να επιλέγει διαμορ
 φώσεις με τον καλύτερο
  []
 
 
-Overfull \hbox (1.75784pt too wide) in paragraph at lines 99--100
+Overfull \hbox (1.28323pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 δυνατό διαχωρισμό τόσο μετ
 αξύ των διαφορετικών προφίλ χρηστών όσο κα
 ι μεταξύ των κρυφών
  []
 
 
-Overfull \hbox (3.1628pt too wide) in paragraph at lines 99--100
+Overfull \hbox (2.02022pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 επιχειρήσεις ηλεκτρονικού 
 εμπορίου πολύτιμες γνώσεις για τη στρατηγ
 ική τους. Αυτό συμβαίνει
  []
 
 
-Overfull \hbox (11.09262pt too wide) in paragraph at lines 99--100
+Overfull \hbox (10.88168pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 καταστάσεις), αλλά και τους 
 πιθανούς λόγους για τους οποίους πλοηγούν
 ται με έναν συγκεκριμένο
  []
 
 
-Overfull \hbox (1.02737pt too wide) in paragraph at lines 105--106
+
+[6]
+Overfull \hbox (0.33597pt too wide) in paragraph at lines 155--156
 \TU/TimesNewRoman(0)/m/n/12 ανάλυση της συμπεριφοράς κ
 αι των προθέσεων των καταναλωτών σε πλατφό
 ρμες ηλεκτρονικού
  []
 
 
-Overfull \hbox (30.5993pt too wide) in paragraph at lines 105--106
+Overfull \hbox (30.23016pt too wide) in paragraph at lines 155--156
 \TU/TimesNewRoman(0)/m/n/12 εμπορίου σε πραγματικό χρό
 νο. Η έρευνα αυτή υποκινείται από τους περι
 ορισμούς των παραδοσιακών
  []
 
 
-Overfull \hbox (6.77621pt too wide) in paragraph at lines 107--108
+Overfull \hbox (6.22543pt too wide) in paragraph at lines 157--158
 []\TU/TimesNewRoman(0)/m/n/12 Εστιάζοντας στα δεδομένα cli
 ck-stream που δημιουργούνται κατά τη πλοήγηση, 
 οι συγγραφείς
  []
 
 
-Overfull \hbox (4.50198pt too wide) in paragraph at lines 107--108
+Overfull \hbox (3.13675pt too wide) in paragraph at lines 157--158
 \TU/TimesNewRoman(0)/m/n/12 επιδιώκουν να χαρτογραφήσο
 υν τα μοτίβα συμπεριφοράς και την τρέχουσα 
 πρόθεση αναζήτησης
  []
 
 
-Overfull \hbox (5.05826pt too wide) in paragraph at lines 110--111
+Overfull \hbox (4.03873pt too wide) in paragraph at lines 160--161
 \TU/TimesNewRoman(0)/m/n/12 το Apache Storm, και τελικά την απ
 οθήκευσή τους στη βάση δεδομένων Cas-san-dra, επ
 ιτρέποντας
@@ -766,36 +1057,36 @@ Overfull \hbox (5.05826pt too wide) in paragraph at lines 110--111
 
 
 
-[4]
-Overfull \hbox (5.94339pt too wide) in paragraph at lines 116--117
+[7]
+Overfull \hbox (4.80081pt too wide) in paragraph at lines 166--167
 []\TU/TimesNewRoman(0)/b/n/12 Πρόβλεψη επόμενου κλικ: \TU/T
 imesNewRoman(0)/m/n/12 Χρησιμοποιούνται Μαρκοβιανές 
 Αλυσίδες υψηλότερης τάξης
  []
 
 
-Overfull \hbox (4.46176pt too wide) in paragraph at lines 120--121
+Overfull \hbox (3.43051pt too wide) in paragraph at lines 170--171
 \TU/TimesNewRoman(0)/m/n/12 Συνοψίζοντας, η συγκεκριμέ
 νη μελέτη καταδεικνύει ότι η ανάλυση του ψ
 ηφιακού αποτυπώματος
  []
 
 
-Overfull \hbox (7.99757pt too wide) in paragraph at lines 120--121
+Overfull \hbox (6.89015pt too wide) in paragraph at lines 170--171
 \TU/TimesNewRoman(0)/m/n/12 Big Data. Οι συγγραφείς απέδειξ
 αν ότι η εφαρμογή της αρχιτεκτονικής Λάμδα, 
 η οποία συνδυάζει
  []
 
 
-Overfull \hbox (14.14145pt too wide) in paragraph at lines 122--123
+Overfull \hbox (14.14145pt too wide) in paragraph at lines 172--173
 []\TU/TimesNewRoman(0)/m/n/12 Επιπροσθέτως, η έρευνα ανέ
 δειξε την πρακτική αξία του συνδυασμού προ
 ηγμένων αλγορίθμων
  []
 
 
-Overfull \hbox (1.68408pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.98682pt too wide) in paragraph at lines 172--173
 \TU/TimesNewRoman(0)/m/n/12 δεδομένων, εξασφάλισε απαν
 τήσεις με ελάχιστη καθυστέρηση. Η απόδοση 
 αυτή επιβεβαιώθηκε
@@ -803,108 +1094,108 @@ Overfull \hbox (1.68408pt too wide) in paragraph at lines 122--123
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 126.
+(hyperref)                removing `\@ifnextchar' on input line 176.
 
 
-Overfull \hbox (3.84769pt too wide) in paragraph at lines 131--132
+Overfull \hbox (3.58401pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 Σκοπός της εργασίας ήταν η 
 ανάπτυξη μιας νέας μεθόδου αναπαράστασης 
 δεδομένων πλοήγησης
  []
 
 
-Overfull \hbox (21.07388pt too wide) in paragraph at lines 131--132
+Overfull \hbox (19.111pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 χρηστών (click-stream), με την ονο
 μασία Pat-tern2Vec, με στόχο την αποτελεσματικότ
 ερη κατανόηση
  []
 
 
-Overfull \hbox (11.50082pt too wide) in paragraph at lines 131--132
+Overfull \hbox (10.81528pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 δεδομένα, τα οποία δεν μπορ
 ούν να αξιοποιηθούν άμεσα από αλγορίθμους 
 μηχανικής μάθησης.Για
  []
 
 
-Overfull \hbox (36.89536pt too wide) in paragraph at lines 131--132
+Overfull \hbox (36.63168pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 τον λόγο αυτό, προτείνεται 
 η μετατροπή των ακολουθιών πλοήγησης σε δι
 ανυσματικές αναπαραστάσεις
  []
 
 
-Overfull \hbox (3.76175pt too wide) in paragraph at lines 131--132
+Overfull \hbox (3.05276pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 αποτελέσματα έδειξαν ότι η 
 προτεινόμενη μέθοδος υπερτερεί έναντι υπα
 ρχουσών προσεγγίσεων,
  []
 
 
-Overfull \hbox (6.76595pt too wide) in paragraph at lines 131--132
+Overfull \hbox (1.86165pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 όπως οι Word2Vec, Deep-Walk και Node2Vec. 
 Συγκεκριμένα, παρουσίασε υψηλότερες επιδό
 σεις
  []
 
 
-Overfull \hbox (12.27036pt too wide) in paragraph at lines 131--132
+Overfull \hbox (11.35043pt too wide) in paragraph at lines 181--182
 \TU/TimesNewRoman(0)/m/n/12 πληρότητα (com-plete-ness), επιτυγ
 χάνοντας ποσοστά που προσεγγίζουν το 95 τοι
 ς εκατό.Επιπλέον,
  []
 
 
-Overfull \hbox (25.71176pt too wide) in paragraph at lines 135--136
+Overfull \hbox (25.23715pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 Αρχικά, συλλέχθηκαν δεδομέ
 να click-stream από πραγματική ιστοσελίδα του ηλ
 εκτρονικού εμπορίου.
  []
 
 
-Overfull \hbox (3.67465pt too wide) in paragraph at lines 135--136
+Overfull \hbox (3.35239pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια πραγματοποιήθ
 ηκε η προεπεξεργασία δεδομένων, η οποία πε
 ριλάμβανε καθαρισμό
  []
 
 
-Overfull \hbox (4.8356pt too wide) in paragraph at lines 135--136
+Overfull \hbox (3.94498pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 κανονικών εκφράσεων, ώστε ν
 α αντιστοιχιστούν σε γενικότερες κατηγορί
 ες.Έπειτα, τα δεδομένα
  []
 
 
-Overfull \hbox (2.51254pt too wide) in paragraph at lines 135--136
+Overfull \hbox (2.1434pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 οργανώθηκαν σε συνεδρίες π
 λοήγησης (ses-sions), λαμβάνοντας υπόψη χρονικο
 ύς περιορισμούς,
  []
 
 
-Overfull \hbox (30.09053pt too wide) in paragraph at lines 135--136
+Overfull \hbox (29.071pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 όπως το μέγιστο χρονικό διά
 στημα μεταξύ διαδοχικών ενεργειών. Με αυτό
 ν τον τρόπο εξασφαλίστηκε
  []
 
 
-Overfull \hbox (13.31918pt too wide) in paragraph at lines 135--136
+Overfull \hbox (12.69223pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 ότι οι ακολουθίες αντανακλ
 ούν την ρεαλιστική συμπεριφορά χρηστών.Στ
 η συνέχεια, εφαρμόστηκε
  []
 
 
-Overfull \hbox (38.13089pt too wide) in paragraph at lines 135--136
+Overfull \hbox (36.54886pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 πραγματοποιήθηκε φιλτράρι
 σμα για την απομάκρυνση πλεοναζόντων ή επι
 καλυπτόμενων προτύπων.Το
  []
 
 
-Overfull \hbox (16.66489pt too wide) in paragraph at lines 135--136
+Overfull \hbox (13.68832pt too wide) in paragraph at lines 185--186
 \TU/TimesNewRoman(0)/m/n/12 διανυσματικές αναπαραστάσ
 εις τύπου Word2Vec, αλλά διαφοροποιείται στο ό
 τι εισάγει μηχανισμό
@@ -912,15 +1203,8 @@ Overfull \hbox (16.66489pt too wide) in paragraph at lines 135--136
 
 
 
-[5]
-Overfull \hbox (0.25555pt too wide) in paragraph at lines 139--140
-\TU/TimesNewRoman(0)/m/n/12 αναπαράστασης δεδομένων click-
-stream σε σύγκριση με τις υπάρχουσες προσεγγί
-σεις. Η βασική
- []
-
-
-Overfull \hbox (42.08871pt too wide) in paragraph at lines 139--140
+[8]
+Overfull \hbox (40.78793pt too wide) in paragraph at lines 189--190
 \TU/TimesNewRoman(0)/m/n/12 (fun-nel anal-y-sis) και η αυτοματοπ
 οίηση δοκιμής διεπαφής λογισμικού.Τέλος, π
 ροτείνονται κατευθύνσεις
@@ -928,31 +1212,31 @@ Overfull \hbox (42.08871pt too wide) in paragraph at lines 139--140
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 141.
+(hyperref)                removing `\@ifnextchar' on input line 191.
 
 
-Overfull \hbox (33.36427pt too wide) in paragraph at lines 143--144
+Overfull \hbox (32.28615pt too wide) in paragraph at lines 193--194
 \TU/TimesNewRoman(0)/m/n/12 Ο βασικός στόχος της συγκεκ
 ριμένης έρευνας είναι η ανάπτυξη ενός πιο 
 ακριβούς και εξατομικευμένου
  []
 
 
-Overfull \hbox (15.06123pt too wide) in paragraph at lines 143--144
+Overfull \hbox (14.08858pt too wide) in paragraph at lines 193--194
 \TU/TimesNewRoman(0)/m/n/12 το ιστορικό αγορών των χρησ
 τών. Σε αντίθεση με πολλές υπάρχουσες προσ
 εγγίσεις που βασίζονται
  []
 
 
-Overfull \hbox (13.81918pt too wide) in paragraph at lines 143--144
+Overfull \hbox (13.81918pt too wide) in paragraph at lines 193--194
 \TU/TimesNewRoman(0)/m/n/12 κυρίως σε rat-ings ή απλά clicks, η 
 συγκεκριμένη εργασία δίνει έμφαση στη πρα
 γματική αγοραστική
  []
 
 
-Overfull \hbox (16.6016pt too wide) in paragraph at lines 143--144
+Overfull \hbox (15.85745pt too wide) in paragraph at lines 193--194
 \TU/TimesNewRoman(0)/m/n/12 συμπεριφορά του χρήστη.Οι β
 ασικοί σκοποί της μελέτης είναι η εξής: η α
 νάλυση της συμπεριφοράς
@@ -960,50 +1244,50 @@ Overfull \hbox (16.6016pt too wide) in paragraph at lines 143--144
 
 
 
-[6]
-Overfull \hbox (10.30664pt too wide) in paragraph at lines 146--148
+[9]
+Overfull \hbox (9.75586pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 Η προτεινόμενη μεθοδολογία 
 UID-KNN αποτελείται από τέσσερα βασικά στάδια 
 που συνδυάζουν
  []
 
 
-Overfull \hbox (2.26631pt too wide) in paragraph at lines 146--148
+Overfull \hbox (1.7917pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 καθώς και ο διαχωρισμός των 
 ses-sions με βάση τη χρονική δραστηριότητα του 
 χρήστη. Επιπλέον
  []
 
 
-Overfull \hbox (4.28952pt too wide) in paragraph at lines 146--148
+Overfull \hbox (3.97311pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 παραμονής σε προϊόντα, αριθ
 μός clicks, προσθήκη στο καλάθι, wish-list και ολοκ
 λήρωση αγοράς.
  []
 
 
-Overfull \hbox (4.90121pt too wide) in paragraph at lines 146--148
+Overfull \hbox (4.44418pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 User-Item-Detail ma-trix, το οποίο αποτ
 ελεί μια πιο αναλυτική μορφή αναπαράσταση
 ς δεδομένων
  []
 
 
-Overfull \hbox (3.15694pt too wide) in paragraph at lines 146--148
+Overfull \hbox (0.76045pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 υπάρχει πιο στοχευμένη ανά
 λυση και καλύτερη εξατομίκευση. Τέλος εφαρ
 μόζεται ο μηχανισμός
  []
 
 
-Overfull \hbox (14.42157pt too wide) in paragraph at lines 146--148
+Overfull \hbox (13.76532pt too wide) in paragraph at lines 196--198
 \TU/TimesNewRoman(0)/m/n/12 συστάσεων που προτείνει τα to
 p-N προϊόντα σε κάθε κατηγορία χρηστών. Οι π
 ροτάσεις βασίζονται
  []
 
 
-Overfull \hbox (7.67972pt too wide) in paragraph at lines 150--151
+Overfull \hbox (7.46878pt too wide) in paragraph at lines 200--201
 \TU/TimesNewRoman(0)/m/n/12 η ταξινόμηση των χρηστών σε 
 τρεις διαφορετικές κατηγορίες συμβάλλει σ
 ημαντικά στη βελτίωση
@@ -1011,49 +1295,90 @@ Overfull \hbox (7.67972pt too wide) in paragraph at lines 150--151
 
 
 
-[7]
+[10]
 
-[8]
-Underfull \hbox (badness 2277) in paragraph at lines 171--172
-[]\TU/TimesNewRoman(0)/m/n/12 Gau-tam Pal, Katie Atkin-son, Gang-min Li (2023) 
-Real-time user click-stream be-
- []
+[11] (./outlong.bbl)
 
-
-Underfull \hbox (badness 7012) in paragraph at lines 171--172
-\TU/TimesNewRoman(0)/m/n/12 hav-ior anal-y-sis based on apache storm stream-ing [][]$\TU/lmtt/m/n/12 https://doi.org/10.1007/
- []
-
-
-
-[9] (./outlong.aux)
+[12] (./outlong.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-10-09>
  ***********
-Package rerunfilecheck Info: File `outlong.out' has not changed.
-(rerunfilecheck)             Checksum: E3B91238FBBAA3215A9E7D0B0784348E;5419.
+
+
+Package rerunfilecheck Warning: File `outlong.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `outlong.out':
+(rerunfilecheck)             Before: DE6656768D005E18FFEB25A9CF5683C7;7585
+(rerunfilecheck)             After:  30171EC685997E7AC9864C1F9FA83E53;7309.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14048 strings out of 475512
- 100000,953878 words of node,token memory allocated
- 529 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 19 attribute, 52 glue_spec
-, 11 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 2:715,3:234,4:172,5:184,6:62,7:8835,8:62,9:368,10:7,11:118
- 36771 multiletter control sequences out of 65536+600000
- 44 fonts using 5086775 bytes
- 79i,5n,92p,3018b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf></usr/share/font
-s/truetype/msttcorefonts/times.ttf></usr/share/fonts/truetype/msttcorefonts/time
-sbd.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on outlong.pdf (10 pages, 525081 bytes).
+ 14088 strings out of 476290
+ 100000,794899 words of node,token memory allocated
+ 493 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 13 attribute, 52 glue_spec
+, 8 attribute_list, 1 write, 3 pdf_action nodes
+   avail lists: 2:1033,3:330,4:252,5:305,6:94,7:8339,8:5,9:514,10:10,11:216
+ 35998 multiletter control sequences out of 65536+600000
+ 45 fonts using 15215423 bytes
+ 73i,6n,92p,3018b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-PDF statistics: 231 PDF objects out of 1000 (max. 8388607)
- 202 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 131072)
- 169 words of extra memory for PDF output out of 10000 (max. 100000000)
+warning  (pdf backend): unreferenced destination with name 'section.6'
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.3'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.2'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.1'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsection.4.4'
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.3.3'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.3.2'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.3.1'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsection.4.3'
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.2.3'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.2.2'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.2.1'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsection.4.2'
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.1.3'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.1.2'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsubsection.4.1.1'
+
+
+warning  (pdf backend): unreferenced destination with name 'subsection.4.1'
+<C:/WINDOWS/Fonts/timesi.ttf><C:/WINDOWS/Fonts/times.ttf><C:/WINDOWS/Fonts/times
+bd.ttf><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on outlong.pdf (13 pages, 609621 bytes).
+
+PDF statistics: 305 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 131072)
+ 241 words of extra memory for PDF output out of 10000 (max. 100000000)
 
