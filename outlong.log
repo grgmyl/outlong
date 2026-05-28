@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.31)  22 MAY 2026 16:34
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.31)  28 MAY 2026 23:58
  restricted system commands enabled.
 **outlong.tex
 (./outlong.tex
@@ -644,7 +644,7 @@ Package hyperref Info: Link coloring ON on input line 14.
 \@outlinefile=\write3
 
 \openout3 = outlong.out
-<images/logo.png, id=119, 488.5452pt x 177.3024pt>
+<images/logo.png, id=139, 488.5452pt x 177.3024pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 20.
@@ -656,11 +656,17 @@ Package luatex.def Info: images/logo.png  used on input line 20.
 {C:/Users/dimit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./images/logo.
 png>] (./outlong.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <6> on input line 5.
+
+Overfull \hbox (5.55362pt too wide) in paragraph at lines 22--22
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/12 Min-ing and Pre-dict-ing Users Click-str
+eam Pat-terns from Noisy In-ter-leav-ing Clicks 
+ []
+
 )
 \tf@toc=\write4
 
@@ -713,373 +719,170 @@ Overfull \hbox (17.32114pt too wide) in paragraph at lines 55--56
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 57.
+(hyperref)                removing `\@ifnextchar' on input line 61.
 
 
-Overfull \hbox (9.43558pt too wide) in paragraph at lines 61--62
-\TU/TimesNewRoman(0)/m/n/12 επαρκή πληροφορία ώστε να κ
-αταστεί δυνατός ο εντοπισμός διαφορετικών 
-προφίλ συμπεριφοράς,
- []
-
-
-Overfull \hbox (19.75589pt too wide) in paragraph at lines 61--62
-\TU/TimesNewRoman(0)/m/n/12 με προσεγγίσεις που επικεν
-τρώνονται αποκλειστικά σε μεμονωμένες ενέ
-ργειες ή σε απλά στατιστικά
- []
-
-
-Overfull \hbox (39.47153pt too wide) in paragraph at lines 63--64
-[]\TU/TimesNewRoman(0)/m/n/12 Πιο συγκεκριμένα, οι συγγρ
-αφείς επιδιώκουν αφενός την ανίχνευση κακ
-όβουλων ή παραπλανητικών
- []
-
-
-Overfull \hbox (1.8981pt too wide) in paragraph at lines 63--64
-\TU/TimesNewRoman(0)/m/n/12 λογαριασμών, όπως οι λογαρι
-ασμοί τύπου Sybil, και αφετέρου την κατανόηση 
-των λανθανόντων
- []
-
-
-Overfull \hbox (28.25198pt too wide) in paragraph at lines 63--64
-\TU/TimesNewRoman(0)/m/n/12 αλλά επεκτείνεται και στην 
-ευρύτερη ερμηνεία της ανθρώπινης πλοήγηση
-ς σε ψηφιακά περιβάλλοντα.
- []
-
-
-Overfull \hbox (21.49483pt too wide) in paragraph at lines 67--68
-\TU/TimesNewRoman(0)/m/n/12 που προέρχονται από τις πλα
-τφόρμες Ren-ren και Whis-per. Οι συγγραφείς εξετάζ
-ουν τη συμπεριφορά
- []
-
-
-
-[2]
-Overfull \hbox (6.35043pt too wide) in paragraph at lines 69--70
-[]\TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια, προτείνοντα
-ι τρεις διαφορετικές αναπαραστάσεις των click
--stream ακολουθιών:
- []
-
-
-Overfull \hbox (0.74692pt too wide) in paragraph at lines 69--70
-\TU/TimesNewRoman(0)/m/n/12 η αναπαράσταση click-sequence, η χ
-ρονική αναπαράσταση (time-based model) και ένα υβρ
-ιδικό
- []
-
-
-Overfull \hbox (12.9805pt too wide) in paragraph at lines 71--72
-\TU/TimesNewRoman(0)/m/n/12 δεδομένα μπορούν να ταξινο
-μούνται χωρίς να απαιτείται πλήρης επανεκ
-παίδευση του συστήματος.
- []
-
-
-Overfull \hbox (0.71468pt too wide) in paragraph at lines 71--72
-\TU/TimesNewRoman(0)/m/n/12 Η μεθοδολογία αυτή παρουσι
-άζει ιδιαίτερο ενδιαφέρον, επειδή συνδυάζ
-ει τεχνικές αναγνώρισης
- []
-
-
-Overfull \hbox (23.0723pt too wide) in paragraph at lines 75--76
-\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
-ας αναδεικνύουν ότι τα click-stream δεδομένα μπο
-ρούν να αξιοποιηθούν
- []
-
-
-Overfull \hbox (3.90042pt too wide) in paragraph at lines 75--76
-\TU/TimesNewRoman(0)/m/n/12 αποτελεσματικά τόσο για τη
-ν αναγνώριση κακόβουλων λογαριασμών όσο κ
-αι για την κατανόηση
- []
-
-
-Overfull \hbox (50.67776pt too wide) in paragraph at lines 75--76
-\TU/TimesNewRoman(0)/m/n/12 που ενσωματώνεται στις ίδι
-ες τις ακολουθίες είναι επαρκής για την εξ
-αγωγή ουσιαστικών συμπερασμάτων.
- []
-
-
-Overfull \hbox (21.03012pt too wide) in paragraph at lines 75--76
-\TU/TimesNewRoman(0)/m/n/12 ακολουθιών μπορούν να αποδ
-ειχθούν ιδιαίτερα αποτελεσματικές, όταν σ
-υνδυάζονται με κατάλληλες
- []
-
-
-Overfull \hbox (7.35725pt too wide) in paragraph at lines 77--78
-[]\TU/TimesNewRoman(0)/m/n/12 Η συγκεκριμένη εργασία εί
-ναι ιδιαίτερα σημαντική για την παρούσα με
-λέτη, διότι μετατοπίζει
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 79.
-
-
-Overfull \hbox (0.64651pt too wide) in paragraph at lines 83--84
-\TU/TimesNewRoman(0)/m/n/12 αρχιτεκτονικής για την ανά
-λυση και οπτικοποίηση click-stream δεδομένων σε 
-πραγματικό χρόνο.
- []
-
-
-Overfull \hbox (4.73927pt too wide) in paragraph at lines 83--84
-\TU/TimesNewRoman(0)/m/n/12 Η συγκεκριμένη εργασία επι
-κεντρώνεται στην τεχνολογική υποδομή που 
-απαιτείται προκειμένου
- []
-
-
-Overfull \hbox (3.2012pt too wide) in paragraph at lines 83--84
-\TU/TimesNewRoman(0)/m/n/12 βασική ιδέα είναι ότι η αξί
-α των click-stream δεδομένων αυξάνεται σημαντικ
-ά όταν αυτά μπορούν
- []
-
-
-Overfull \hbox (13.6434pt too wide) in paragraph at lines 85--86
-\TU/TimesNewRoman(0)/m/n/12 εμπορίου, τα on-line learn-ing por-tals 
-και τα συστήματα παρακολούθησης επισκεψιμ
-ότητας μπορούν
- []
-
-
-
-[3]
-Overfull \hbox (1.62404pt too wide) in paragraph at lines 89--90
-\TU/TimesNewRoman(0)/m/n/12 Η προτεινόμενη μεθοδολογία 
-βασίζεται σε μια αρχιτεκτονική ροής δεδομ
-ένων που περιλαμβάνει
- []
-
-
-Overfull \hbox (2.08249pt too wide) in paragraph at lines 91--92
-\TU/TimesNewRoman(0)/m/n/12 αριθμός των clicks, η γεωγραφι
-κή προέλευση των επισκεπτών, ο χρόνος παρα
-μονής, οι συσκευές
- []
-
-
-Overfull \hbox (0.91164pt too wide) in paragraph at lines 91--92
-\TU/TimesNewRoman(0)/m/n/12 πρόσβασης και τα συχνότερα 
-μονοπάτια πλοήγησης. Με τον τρόπο αυτό, η ε
-ργασία παρουσιάζει
- []
-
-
-Overfull \hbox (3.99641pt too wide) in paragraph at lines 91--92
-\TU/TimesNewRoman(0)/m/n/12 δεδομένων, αλλά επεκτείνετ
-αι στην άμεση επιχειρησιακή αξιοποίησή το
-υς. Επομένως, η έμφαση
- []
-
-
-Overfull \hbox (21.49612pt too wide) in paragraph at lines 95--96
-\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
-ας καταδεικνύουν ότι η ανάλυση click-stream δεδο
-μένων σε πραγματικό
- []
-
-
-Overfull \hbox (5.68312pt too wide) in paragraph at lines 95--96
-\TU/TimesNewRoman(0)/m/n/12 υπηρεσιών και ψηφιακών πλα
-τφορμών. Συνεπώς, η συνεισφορά της εργασία
-ς εντοπίζεται κυρίως
- []
-
-
-Overfull \hbox (13.08467pt too wide) in paragraph at lines 97--98
-\TU/TimesNewRoman(0)/m/n/12 της ερμηνείας των δεδομένω
-ν. Ενώ άλλες έρευνες εστιάζουν περισσότερο 
-στην εξαγωγή προτύπων
- []
-
-
-Overfull \hbox (19.50278pt too wide) in paragraph at lines 97--98
-\TU/TimesNewRoman(0)/m/n/12 και στη συμπεριφορική ανάλ
-υση, η παρούσα εργασία υπενθυμίζει ότι η πο
-ιότητα και η χρηστικότητα
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 105.
-
-
-
-[4]
-Overfull \hbox (11.11526pt too wide) in paragraph at lines 111--112
+Overfull \hbox (11.11526pt too wide) in paragraph at lines 67--68
 []\TU/TimesNewRoman(0)/m/n/12 Τα MH-MMs προσφέρουν μια ουσι
 αστικότερη προσέγγιση στην ομαδοποίηση τω
 ν ακολουθιών
  []
 
 
-Overfull \hbox (9.55942pt too wide) in paragraph at lines 111--112
+Overfull \hbox (9.55942pt too wide) in paragraph at lines 67--68
 \TU/TimesNewRoman(0)/m/n/12 λανθανουσών μαρκοβιανών δι
 αδικασιών, καθεμία από τις οποίες αντιστοι
 χεί σε έναν διαφορετικό,
  []
 
 
-Overfull \hbox (3.25198pt too wide) in paragraph at lines 120--121
+
+[2]
+Overfull \hbox (3.25198pt too wide) in paragraph at lines 76--77
 []\TU/TimesNewRoman(0)/b/n/12 Αξιολόγηση μέσω Monte Carlo προ
 σομοιώσεων: \TU/TimesNewRoman(0)/m/n/12 Οι συγγραφείς ε
 ξέτασαν την απόδοση
  []
 
 
-Overfull \hbox (8.40121pt too wide) in paragraph at lines 120--121
+Overfull \hbox (8.40121pt too wide) in paragraph at lines 76--77
 \TU/TimesNewRoman(0)/m/n/12 διάφορα σενάρια, μεταβάλλο
 ντας το μήκος των ακολουθιών και τον αριθμ
 ό των δεδομένων.
  []
 
 
-Overfull \hbox (8.6207pt too wide) in paragraph at lines 126--127
+Overfull \hbox (8.6207pt too wide) in paragraph at lines 82--83
 []\TU/TimesNewRoman(0)/b/n/12 «Αναζητητής πληροφοριών» (I
 n-for-ma-tion seeker): \TU/TimesNewRoman(0)/m/n/12 Αποτελεί το 19% 
 των χρηστών.
  []
 
 
-Overfull \hbox (18.98282pt too wide) in paragraph at lines 128--129
+Overfull \hbox (18.98282pt too wide) in paragraph at lines 84--85
 \TU/TimesNewRoman(0)/m/n/12 αγοραστικές ενέργειες, όπω
 ς η εύρεση διαμονής (Ac-com-mo-da-tion) ή τοπικών εμ
 πειριών
  []
 
 
-
-[5]
-Overfull \hbox (30.52347pt too wide) in paragraph at lines 133--134
+Overfull \hbox (30.52347pt too wide) in paragraph at lines 89--90
 \TU/TimesNewRoman(0)/m/n/12 διαχωρισμού μεταξύ των λαν
 θανουσών κλάσεων (δηλαδή των διαφορετικών 
 προφίλ που προκύπτουν). 
  []
 
 
-Overfull \hbox (2.21683pt too wide) in paragraph at lines 139--140
+Overfull \hbox (2.21683pt too wide) in paragraph at lines 95--96
 []\TU/TimesNewRoman(0)/b/n/12 Την παρατηρούμενη λογαριθ
 μική πιθανοφάνεια (log-likelihood): \TU/TimesNewRoman(0)/m/n/12
  Αξιολογεί τον βαθμό
  []
 
 
-Overfull \hbox (23.61136pt too wide) in paragraph at lines 147--148
+
+[3]
+Overfull \hbox (23.61136pt too wide) in paragraph at lines 103--104
 \TU/TimesNewRoman(0)/m/n/12 είναι πολύ πιο αποτελεσματ
 ική από τα παραδοσιακά κριτήρια όταν αναλύ
 ονται σύντομες ακολουθίες,
  []
 
 
-Overfull \hbox (14.7295pt too wide) in paragraph at lines 149--150
+Overfull \hbox (14.7295pt too wide) in paragraph at lines 105--106
 []\TU/TimesNewRoman(0)/m/n/12 Η ενσωμάτωση της εντροπία
 ς επιτρέπει στο μοντέλο να επιλέγει διαμορ
 φώσεις με τον καλύτερο
  []
 
 
-Overfull \hbox (1.28323pt too wide) in paragraph at lines 149--150
+Overfull \hbox (1.28323pt too wide) in paragraph at lines 105--106
 \TU/TimesNewRoman(0)/m/n/12 δυνατό διαχωρισμό τόσο μετ
 αξύ των διαφορετικών προφίλ χρηστών όσο κα
 ι μεταξύ των κρυφών
  []
 
 
-Overfull \hbox (2.02022pt too wide) in paragraph at lines 149--150
+Overfull \hbox (2.02022pt too wide) in paragraph at lines 105--106
 \TU/TimesNewRoman(0)/m/n/12 επιχειρήσεις ηλεκτρονικού 
 εμπορίου πολύτιμες γνώσεις για τη στρατηγ
 ική τους. Αυτό συμβαίνει
  []
 
 
-Overfull \hbox (10.88168pt too wide) in paragraph at lines 149--150
+Overfull \hbox (10.88168pt too wide) in paragraph at lines 105--106
 \TU/TimesNewRoman(0)/m/n/12 καταστάσεις), αλλά και τους 
 πιθανούς λόγους για τους οποίους πλοηγούν
 ται με έναν συγκεκριμένο
  []
 
 
-
-[6]
-Overfull \hbox (0.33597pt too wide) in paragraph at lines 155--156
+Overfull \hbox (0.33597pt too wide) in paragraph at lines 111--112
 \TU/TimesNewRoman(0)/m/n/12 ανάλυση της συμπεριφοράς κ
 αι των προθέσεων των καταναλωτών σε πλατφό
 ρμες ηλεκτρονικού
  []
 
 
-Overfull \hbox (30.23016pt too wide) in paragraph at lines 155--156
+Overfull \hbox (30.23016pt too wide) in paragraph at lines 111--112
 \TU/TimesNewRoman(0)/m/n/12 εμπορίου σε πραγματικό χρό
 νο. Η έρευνα αυτή υποκινείται από τους περι
 ορισμούς των παραδοσιακών
  []
 
 
-Overfull \hbox (6.22543pt too wide) in paragraph at lines 157--158
+Overfull \hbox (6.22543pt too wide) in paragraph at lines 113--114
 []\TU/TimesNewRoman(0)/m/n/12 Εστιάζοντας στα δεδομένα cli
 ck-stream που δημιουργούνται κατά τη πλοήγηση, 
 οι συγγραφείς
  []
 
 
-Overfull \hbox (3.13675pt too wide) in paragraph at lines 157--158
+Overfull \hbox (3.13675pt too wide) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/12 επιδιώκουν να χαρτογραφήσο
 υν τα μοτίβα συμπεριφοράς και την τρέχουσα 
 πρόθεση αναζήτησης
  []
 
 
-Overfull \hbox (4.03873pt too wide) in paragraph at lines 160--161
+Overfull \hbox (4.03873pt too wide) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/12 το Apache Storm, και τελικά την απ
 οθήκευσή τους στη βάση δεδομένων Cas-san-dra, επ
 ιτρέποντας
  []
 
 
-Overfull \hbox (4.80081pt too wide) in paragraph at lines 166--167
+
+[4]
+Overfull \hbox (4.80081pt too wide) in paragraph at lines 122--123
 []\TU/TimesNewRoman(0)/b/n/12 Πρόβλεψη επόμενου κλικ: \TU/T
 imesNewRoman(0)/m/n/12 Χρησιμοποιούνται Μαρκοβιανές 
 Αλυσίδες υψηλότερης τάξης
  []
 
 
-Overfull \hbox (3.43051pt too wide) in paragraph at lines 170--171
+Overfull \hbox (3.43051pt too wide) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/12 Συνοψίζοντας, η συγκεκριμέ
 νη μελέτη καταδεικνύει ότι η ανάλυση του ψ
 ηφιακού αποτυπώματος
  []
 
 
-Overfull \hbox (6.89015pt too wide) in paragraph at lines 170--171
+Overfull \hbox (6.89015pt too wide) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/12 Big Data. Οι συγγραφείς απέδειξ
 αν ότι η εφαρμογή της αρχιτεκτονικής Λάμδα, 
 η οποία συνδυάζει
  []
 
 
-
-[7]
-Overfull \hbox (14.14145pt too wide) in paragraph at lines 172--173
+Overfull \hbox (14.14145pt too wide) in paragraph at lines 128--129
 []\TU/TimesNewRoman(0)/m/n/12 Επιπροσθέτως, η έρευνα ανέ
 δειξε την πρακτική αξία του συνδυασμού προ
 ηγμένων αλγορίθμων
  []
 
 
-Overfull \hbox (0.98682pt too wide) in paragraph at lines 172--173
+Overfull \hbox (0.98682pt too wide) in paragraph at lines 128--129
 \TU/TimesNewRoman(0)/m/n/12 δεδομένων, εξασφάλισε απαν
 τήσεις με ελάχιστη καθυστέρηση. Η απόδοση 
 αυτή επιβεβαιώθηκε
@@ -1087,200 +890,201 @@ Overfull \hbox (0.98682pt too wide) in paragraph at lines 172--173
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 176.
+(hyperref)                removing `\@ifnextchar' on input line 132.
 
 
-Overfull \hbox (3.58401pt too wide) in paragraph at lines 181--182
+Overfull \hbox (3.58401pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 Σκοπός της εργασίας ήταν η 
 ανάπτυξη μιας νέας μεθόδου αναπαράστασης 
 δεδομένων πλοήγησης
  []
 
 
-Overfull \hbox (19.111pt too wide) in paragraph at lines 181--182
+Overfull \hbox (19.111pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 χρηστών (click-stream), με την ονο
 μασία Pat-tern2Vec, με στόχο την αποτελεσματικότ
 ερη κατανόηση
  []
 
 
-Overfull \hbox (10.81528pt too wide) in paragraph at lines 181--182
+Overfull \hbox (10.81528pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 δεδομένα, τα οποία δεν μπορ
 ούν να αξιοποιηθούν άμεσα από αλγορίθμους 
 μηχανικής μάθησης.Για
  []
 
 
-Overfull \hbox (36.63168pt too wide) in paragraph at lines 181--182
+Overfull \hbox (36.63168pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 τον λόγο αυτό, προτείνεται 
 η μετατροπή των ακολουθιών πλοήγησης σε δι
 ανυσματικές αναπαραστάσεις
  []
 
 
-Overfull \hbox (3.05276pt too wide) in paragraph at lines 181--182
+Overfull \hbox (3.05276pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 αποτελέσματα έδειξαν ότι η 
 προτεινόμενη μέθοδος υπερτερεί έναντι υπα
 ρχουσών προσεγγίσεων,
  []
 
 
-Overfull \hbox (1.86165pt too wide) in paragraph at lines 181--182
+Overfull \hbox (1.86165pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 όπως οι Word2Vec, Deep-Walk και Node2Vec. 
 Συγκεκριμένα, παρουσίασε υψηλότερες επιδό
 σεις
  []
 
 
-Overfull \hbox (11.35043pt too wide) in paragraph at lines 181--182
+Overfull \hbox (11.35043pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(0)/m/n/12 πληρότητα (com-plete-ness), επιτυγ
 χάνοντας ποσοστά που προσεγγίζουν το 95 τοι
 ς εκατό.Επιπλέον,
  []
 
 
-Overfull \hbox (25.23715pt too wide) in paragraph at lines 185--186
+
+[5]
+Overfull \hbox (25.23715pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 Αρχικά, συλλέχθηκαν δεδομέ
 να click-stream από πραγματική ιστοσελίδα του ηλ
 εκτρονικού εμπορίου.
  []
 
 
-Overfull \hbox (3.35239pt too wide) in paragraph at lines 185--186
+Overfull \hbox (3.35239pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια πραγματοποιήθ
 ηκε η προεπεξεργασία δεδομένων, η οποία πε
 ριλάμβανε καθαρισμό
  []
 
 
-Overfull \hbox (3.94498pt too wide) in paragraph at lines 185--186
+Overfull \hbox (3.94498pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 κανονικών εκφράσεων, ώστε ν
 α αντιστοιχιστούν σε γενικότερες κατηγορί
 ες.Έπειτα, τα δεδομένα
  []
 
 
-Overfull \hbox (2.1434pt too wide) in paragraph at lines 185--186
+Overfull \hbox (2.1434pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 οργανώθηκαν σε συνεδρίες π
 λοήγησης (ses-sions), λαμβάνοντας υπόψη χρονικο
 ύς περιορισμούς,
  []
 
 
-Overfull \hbox (29.071pt too wide) in paragraph at lines 185--186
+Overfull \hbox (29.071pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 όπως το μέγιστο χρονικό διά
 στημα μεταξύ διαδοχικών ενεργειών. Με αυτό
 ν τον τρόπο εξασφαλίστηκε
  []
 
 
-Overfull \hbox (12.69223pt too wide) in paragraph at lines 185--186
+Overfull \hbox (12.69223pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 ότι οι ακολουθίες αντανακλ
 ούν την ρεαλιστική συμπεριφορά χρηστών.Στ
 η συνέχεια, εφαρμόστηκε
  []
 
 
-Overfull \hbox (36.54886pt too wide) in paragraph at lines 185--186
+Overfull \hbox (36.54886pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 πραγματοποιήθηκε φιλτράρι
 σμα για την απομάκρυνση πλεοναζόντων ή επι
 καλυπτόμενων προτύπων.Το
  []
 
 
-Overfull \hbox (13.68832pt too wide) in paragraph at lines 185--186
+Overfull \hbox (13.68832pt too wide) in paragraph at lines 141--142
 \TU/TimesNewRoman(0)/m/n/12 διανυσματικές αναπαραστάσ
 εις τύπου Word2Vec, αλλά διαφοροποιείται στο ό
 τι εισάγει μηχανισμό
  []
 
 
-
-[8]
-Overfull \hbox (40.78793pt too wide) in paragraph at lines 189--190
+Overfull \hbox (40.78793pt too wide) in paragraph at lines 145--146
 \TU/TimesNewRoman(0)/m/n/12 (fun-nel anal-y-sis) και η αυτοματοπ
 οίηση δοκιμής διεπαφής λογισμικού.Τέλος, π
 ροτείνονται κατευθύνσεις
  []
 
 
+
+[6]
+
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 191.
+(hyperref)                removing `\@ifnextchar' on input line 147.
 
 
-Overfull \hbox (32.28615pt too wide) in paragraph at lines 193--194
+Overfull \hbox (32.28615pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 Ο βασικός στόχος της συγκεκ
 ριμένης έρευνας είναι η ανάπτυξη ενός πιο 
 ακριβούς και εξατομικευμένου
  []
 
 
-Overfull \hbox (14.08858pt too wide) in paragraph at lines 193--194
+Overfull \hbox (14.08858pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 το ιστορικό αγορών των χρησ
 τών. Σε αντίθεση με πολλές υπάρχουσες προσ
 εγγίσεις που βασίζονται
  []
 
 
-Overfull \hbox (13.81918pt too wide) in paragraph at lines 193--194
+Overfull \hbox (13.81918pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 κυρίως σε rat-ings ή απλά clicks, η 
 συγκεκριμένη εργασία δίνει έμφαση στη πρα
 γματική αγοραστική
  []
 
 
-Overfull \hbox (15.85745pt too wide) in paragraph at lines 193--194
+Overfull \hbox (15.85745pt too wide) in paragraph at lines 149--150
 \TU/TimesNewRoman(0)/m/n/12 συμπεριφορά του χρήστη.Οι β
 ασικοί σκοποί της μελέτης είναι η εξής: η α
 νάλυση της συμπεριφοράς
  []
 
 
-Overfull \hbox (9.75586pt too wide) in paragraph at lines 196--198
+Overfull \hbox (9.75586pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 Η προτεινόμενη μεθοδολογία 
 UID-KNN αποτελείται από τέσσερα βασικά στάδια 
 που συνδυάζουν
  []
 
 
-Overfull \hbox (1.7917pt too wide) in paragraph at lines 196--198
+Overfull \hbox (1.7917pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 καθώς και ο διαχωρισμός των 
 ses-sions με βάση τη χρονική δραστηριότητα του 
 χρήστη. Επιπλέον
  []
 
 
-Overfull \hbox (3.97311pt too wide) in paragraph at lines 196--198
+Overfull \hbox (3.97311pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 παραμονής σε προϊόντα, αριθ
 μός clicks, προσθήκη στο καλάθι, wish-list και ολοκ
 λήρωση αγοράς.
  []
 
 
-Overfull \hbox (4.44418pt too wide) in paragraph at lines 196--198
+Overfull \hbox (4.44418pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 User-Item-Detail ma-trix, το οποίο αποτ
 ελεί μια πιο αναλυτική μορφή αναπαράσταση
 ς δεδομένων
  []
 
 
-Overfull \hbox (0.76045pt too wide) in paragraph at lines 196--198
+Overfull \hbox (0.76045pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 υπάρχει πιο στοχευμένη ανά
 λυση και καλύτερη εξατομίκευση. Τέλος εφαρ
 μόζεται ο μηχανισμός
  []
 
 
-Overfull \hbox (13.76532pt too wide) in paragraph at lines 196--198
+Overfull \hbox (13.76532pt too wide) in paragraph at lines 152--154
 \TU/TimesNewRoman(0)/m/n/12 συστάσεων που προτείνει τα to
 p-N προϊόντα σε κάθε κατηγορία χρηστών. Οι π
 ροτάσεις βασίζονται
  []
 
 
-
-[9]
-Overfull \hbox (7.46878pt too wide) in paragraph at lines 200--201
+Overfull \hbox (7.46878pt too wide) in paragraph at lines 156--157
 \TU/TimesNewRoman(0)/m/n/12 η ταξινόμηση των χρηστών σε 
 τρεις διαφορετικές κατηγορίες συμβάλλει σ
 ημαντικά στη βελτίωση
@@ -1288,35 +1092,283 @@ Overfull \hbox (7.46878pt too wide) in paragraph at lines 200--201
 
 
 
-[10] (./outlong.bbl)
+[7]
 
-[11] (./outlong.aux)
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 164.
+
+
+Overfull \hbox (1.73325pt too wide) in paragraph at lines 170--171
+[]\TU/TimesNewRoman(0)/m/n/12 Πιο συγκεκριμένα, η έρευνα 
+στοχεύει αφενός στην εξόρυξη συχνών και μη 
+επικαλυπτόμενων
+ []
+
+
+Overfull \hbox (10.24106pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/12 να αξιοποιηθεί για βελτίωσ
+η της εμπειρίας χρήσης, προληπτική φόρτωση 
+περιεχομένου ή ανάλυση
+ []
+
+
+Overfull \hbox (5.35825pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 προσεγγίσεις se-quen-tial pat-tern min-i
+ng, οι οποίες προϋποθέτουν συνήθως καθαρές 
+και διαδοχικές
+ []
+
+
+Overfull \hbox (10.72218pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 στα pat-terns. Έτσι, τα υποκείμε
+να μοτίβα μπορούν να αναγνωριστούν ακόμη κ
+αι όταν η ακολουθία
+ []
+
+
+
+[8]
+Overfull \hbox (24.53793pt too wide) in paragraph at lines 178--179
+[]\TU/TimesNewRoman(0)/m/n/12 Μετά την εξόρυξη των προτύ
+πων, οι συγγραφείς προχωρούν στην ετικετοπ
+οίηση των ακολουθιών
+ []
+
+
+Overfull \hbox (2.36801pt too wide) in paragraph at lines 182--183
+\TU/TimesNewRoman(0)/m/n/12 Model, το οποίο λαμβάνει υπόψη 
+τόσο τις λανθάνουσες καταστάσεις όσο και τ
+α παρατηρούμενα,
+ []
+
+
+Overfull \hbox (11.02118pt too wide) in paragraph at lines 188--189
+\TU/TimesNewRoman(0)/m/n/12 μοντελοποίηση της συμπεριφ
+οράς των χρηστών. Η βασική της συνεισφορά ε
+ίναι ότι αντιμετωπίζει
+ []
+
+
+Overfull \hbox (3.02036pt too wide) in paragraph at lines 188--189
+\TU/TimesNewRoman(0)/m/n/12 ρεαλιστικά το πρόβλημα του 
+θορύβου στις ακολουθίες πλοήγησης, προτεί
+νοντας έναν αλγόριθμο
+ []
+
+
+Overfull \hbox (17.87599pt too wide) in paragraph at lines 188--189
+\TU/TimesNewRoman(0)/m/n/12 χρήση του HMM επιτρέπει την π
+ρόβλεψη της επόμενης συμπεριφοράς του χρή
+στη με ικανοποιητική
+ []
+
+
+Overfull \hbox (3.42776pt too wide) in paragraph at lines 190--191
+\TU/TimesNewRoman(0)/m/n/12 πώς μπορούν να συνδυαστούν 
+τεχνικές ακολουθιακής εξόρυξης και πιθανο
+τικής μοντελοποίησης
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 192.
+
+
+
+[9]
+Overfull \hbox (21.49483pt too wide) in paragraph at lines 200--201
+\TU/TimesNewRoman(0)/m/n/12 που προέρχονται από τις πλα
+τφόρμες Ren-ren και Whis-per. Οι συγγραφείς εξετάζ
+ουν τη συμπεριφορά
+ []
+
+
+Overfull \hbox (6.35043pt too wide) in paragraph at lines 202--203
+[]\TU/TimesNewRoman(0)/m/n/12 Στη συνέχεια, προτείνοντα
+ι τρεις διαφορετικές αναπαραστάσεις των click
+-stream ακολουθιών:
+ []
+
+
+Overfull \hbox (0.74692pt too wide) in paragraph at lines 202--203
+\TU/TimesNewRoman(0)/m/n/12 η αναπαράσταση click-sequence, η χ
+ρονική αναπαράσταση (time-based model) και ένα υβρ
+ιδικό
+ []
+
+
+Overfull \hbox (12.9805pt too wide) in paragraph at lines 204--205
+\TU/TimesNewRoman(0)/m/n/12 δεδομένα μπορούν να ταξινο
+μούνται χωρίς να απαιτείται πλήρης επανεκ
+παίδευση του συστήματος.
+ []
+
+
+Overfull \hbox (0.71468pt too wide) in paragraph at lines 204--205
+\TU/TimesNewRoman(0)/m/n/12 Η μεθοδολογία αυτή παρουσι
+άζει ιδιαίτερο ενδιαφέρον, επειδή συνδυάζ
+ει τεχνικές αναγνώρισης
+ []
+
+
+Overfull \hbox (23.0723pt too wide) in paragraph at lines 208--209
+\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
+ας αναδεικνύουν ότι τα click-stream δεδομένα μπο
+ρούν να αξιοποιηθούν
+ []
+
+
+Overfull \hbox (3.90042pt too wide) in paragraph at lines 208--209
+\TU/TimesNewRoman(0)/m/n/12 αποτελεσματικά τόσο για τη
+ν αναγνώριση κακόβουλων λογαριασμών όσο κ
+αι για την κατανόηση
+ []
+
+
+Overfull \hbox (50.67776pt too wide) in paragraph at lines 208--209
+\TU/TimesNewRoman(0)/m/n/12 που ενσωματώνεται στις ίδι
+ες τις ακολουθίες είναι επαρκής για την εξ
+αγωγή ουσιαστικών συμπερασμάτων.
+ []
+
+
+Overfull \hbox (21.03012pt too wide) in paragraph at lines 208--209
+\TU/TimesNewRoman(0)/m/n/12 ακολουθιών μπορούν να αποδ
+ειχθούν ιδιαίτερα αποτελεσματικές, όταν σ
+υνδυάζονται με κατάλληλες
+ []
+
+
+Overfull \hbox (7.35725pt too wide) in paragraph at lines 210--211
+[]\TU/TimesNewRoman(0)/m/n/12 Η συγκεκριμένη εργασία εί
+ναι ιδιαίτερα σημαντική για την παρούσα με
+λέτη, διότι μετατοπίζει
+ []
+
+
+
+[10]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 212.
+
+
+Overfull \hbox (0.64651pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 αρχιτεκτονικής για την ανά
+λυση και οπτικοποίηση click-stream δεδομένων σε 
+πραγματικό χρόνο.
+ []
+
+
+Overfull \hbox (4.73927pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 Η συγκεκριμένη εργασία επι
+κεντρώνεται στην τεχνολογική υποδομή που 
+απαιτείται προκειμένου
+ []
+
+
+Overfull \hbox (3.2012pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 βασική ιδέα είναι ότι η αξί
+α των click-stream δεδομένων αυξάνεται σημαντικ
+ά όταν αυτά μπορούν
+ []
+
+
+Overfull \hbox (13.6434pt too wide) in paragraph at lines 218--219
+\TU/TimesNewRoman(0)/m/n/12 εμπορίου, τα on-line learn-ing por-tals 
+και τα συστήματα παρακολούθησης επισκεψιμ
+ότητας μπορούν
+ []
+
+
+Overfull \hbox (1.62404pt too wide) in paragraph at lines 222--223
+\TU/TimesNewRoman(0)/m/n/12 Η προτεινόμενη μεθοδολογία 
+βασίζεται σε μια αρχιτεκτονική ροής δεδομ
+ένων που περιλαμβάνει
+ []
+
+
+Overfull \hbox (2.08249pt too wide) in paragraph at lines 224--225
+\TU/TimesNewRoman(0)/m/n/12 αριθμός των clicks, η γεωγραφι
+κή προέλευση των επισκεπτών, ο χρόνος παρα
+μονής, οι συσκευές
+ []
+
+
+Overfull \hbox (0.91164pt too wide) in paragraph at lines 224--225
+\TU/TimesNewRoman(0)/m/n/12 πρόσβασης και τα συχνότερα 
+μονοπάτια πλοήγησης. Με τον τρόπο αυτό, η ε
+ργασία παρουσιάζει
+ []
+
+
+Overfull \hbox (3.99641pt too wide) in paragraph at lines 224--225
+\TU/TimesNewRoman(0)/m/n/12 δεδομένων, αλλά επεκτείνετ
+αι στην άμεση επιχειρησιακή αξιοποίησή το
+υς. Επομένως, η έμφαση
+ []
+
+
+Overfull \hbox (21.49612pt too wide) in paragraph at lines 228--229
+\TU/TimesNewRoman(0)/m/n/12 Τα συμπεράσματα της εργασί
+ας καταδεικνύουν ότι η ανάλυση click-stream δεδο
+μένων σε πραγματικό
+ []
+
+
+Overfull \hbox (5.68312pt too wide) in paragraph at lines 228--229
+\TU/TimesNewRoman(0)/m/n/12 υπηρεσιών και ψηφιακών πλα
+τφορμών. Συνεπώς, η συνεισφορά της εργασία
+ς εντοπίζεται κυρίως
+ []
+
+
+Overfull \hbox (13.08467pt too wide) in paragraph at lines 230--231
+\TU/TimesNewRoman(0)/m/n/12 της ερμηνείας των δεδομένω
+ν. Ενώ άλλες έρευνες εστιάζουν περισσότερο 
+στην εξαγωγή προτύπων
+ []
+
+
+Overfull \hbox (19.50278pt too wide) in paragraph at lines 230--231
+\TU/TimesNewRoman(0)/m/n/12 και στη συμπεριφορική ανάλ
+υση, η παρούσα εργασία υπενθυμίζει ότι η πο
+ιότητα και η χρηστικότητα
+ []
+
+
+
+[11]
+
+[12] (./outlong.bbl)
+
+[13] (./outlong.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `outlong.out' has not changed.
-(rerunfilecheck)             Checksum: 30171EC685997E7AC9864C1F9FA83E53;7309.
+(rerunfilecheck)             Checksum: 22ED88FB6650B83FA63AA4689B22C3D9;8640.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14069 strings out of 476290
+ 14083 strings out of 476290
  100000,794899 words of node,token memory allocated
- 493 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 13 attribute, 52 glue_spec
-, 8 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 2:1012,3:320,4:248,5:337,6:91,7:8469,8:5,9:504,10:10,11:216
- 35997 multiletter control sequences out of 65536+600000
+ 505 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 15 attribute, 52 glue_spec
+, 9 attribute_list, 1 write, 4 pdf_action nodes
+   avail lists: 2:1183,3:374,4:292,5:320,6:106,7:8241,8:5,9:594,10:10,11:252
+ 36003 multiletter control sequences out of 65536+600000
  45 fonts using 15215423 bytes
- 73i,5n,92p,3018b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,5n,92p,3018b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf><C:/WINDOWS/Fonts/times.ttf><C:/WINDOWS/Fonts/times
 bd.ttf><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi12.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmmi8.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb>
-Output written on outlong.pdf (12 pages, 606445 bytes).
+Output written on outlong.pdf (14 pages, 619071 bytes).
 
-PDF statistics: 279 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 131072)
- 233 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 319 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 131072)
+ 273 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,5 +1,12 @@
 \begin{thebibliography}{1}
 
+\bibitem{clickstream2022}
+A.~Alamoudi, F.~Fekri, M.~Mohandes, and B.~Liu.
+\newblock Mining and predicting users clickstream patterns from noisy
+  interleaving clicks.
+\newblock In {\em 2022 IEEE Global Communications Conference (GLOBECOM)}, pages
+  3083--3088, 2022.
+
 \bibitem{RealTimeClickstream}
 Ramanna Hanamanthrao and Thejaswini S.
 \newblock Real-time clickstream data analytics and visualization.
