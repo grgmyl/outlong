@@ -7,12 +7,26 @@ A.~Alamoudi, F.~Fekri, M.~Mohandes, and B.~Liu.
 \newblock In {\em 2022 IEEE Global Communications Conference (GLOBECOM)}, pages
   3083--3088, 2022.
 
+\bibitem{chen2022eta}
+Qiwei Chen, Yue Xu, Changhua Pei, Shanshan Lv, Tao Zhuang, and Junfeng Ge.
+\newblock Efficient long sequential user data modeling for click-through rate
+  prediction.
+\newblock In {\em Proceedings of the 31st ACM International Conference on
+  Information and Knowledge Management Workshop on Deep Learning Practice for
+  High-Dimensional Sparse Data (DLP-KDD)}, 2022.
+
 \bibitem{RealTimeClickstream}
 Ramanna Hanamanthrao and Thejaswini S.
 \newblock Real-time clickstream data analytics and visualization.
 \newblock In {\em 2017 2nd IEEE International Conference on Recent Trends in
   Electronics Information \& Communication Technology (RTEICT)}, pages
   2139--2144, May 2017.
+
+\bibitem{koehn2020predicting}
+Dennis Koehn, Stefan Lessmann, and Markus Schaal.
+\newblock Predicting online shopping behaviour from clickstream data using deep
+  learning.
+\newblock {\em Expert Systems with Applications}, 150:113342, 2020.
 
 \bibitem{Pat2Vec}
 Erdi Olmezogullari and Mehmet~S. Aktas.
