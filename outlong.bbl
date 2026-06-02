@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{clickstream2022}
 A.~Alamoudi, F.~Fekri, M.~Mohandes, and B.~Liu.
@@ -52,6 +52,14 @@ Furio Urso, Antonino Abbruzzo, Marcello Chiodi, and Maria~Francesca Cracolici.
 \newblock Model selection for mixture hidden markov models: an application to
   clickstream data.
 \newblock 2024.
+
+\bibitem{Venkatesan2026}
+Vivek Venkatesan, Balaji Sundareshan, Deepak Barla, and Chakkaravarthy
+  Arunachalam.
+\newblock Intent-aware clickstream analytics with explainable ai: A scalable
+  data engineering framework.
+\newblock In {\em Proceedings of the 2026 IEEE 16th Annual Computing and
+  Communication Workshop and Conference (CCWC)}, pages 348--355. IEEE, 2026.
 
 \bibitem{ClickstreamUserBehaviorModels}
 Gang Wang, Xinyi Zhang, Shiliang Tang, Christo Wilson, Haitao Zheng, and Ben~Y.

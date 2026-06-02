@@ -22,8 +22,7 @@
 \contentsline {subsection}{\numberline {4.1}Mining and Predicting Users Clickstream Patterns from Noisy Interleaving Clicks}{8}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Clickstream user behavior models}{8}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Real-time clickstream data analytics and visualization}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Χρήση Deep Learning για prediction}{9}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}Predicting online shopping behaviour from clickstream data using deep learning}{9}{subsubsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.5}Incremental clickstream pattern mining}{10}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction}{10}{subsubsection.4.5.1}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{10}{section.5}%
+\contentsline {subsection}{\numberline {4.4}Intent-Aware Clickstream Analytics with Explainable AI: A Scalable Data Engineering Framework}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Predicting online shopping behaviour from clickstream data using deep learning}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction }{10}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{11}{section.5}%

@@ -8,45 +8,45 @@ Database file #1: refer.bib
 Warning--empty journal in Pat2Vec
 Warning--empty journal in Apache
 Warning--empty journal in MMHM
-You've used 9 entries,
+You've used 10 entries,
             2118 wiz_defined-function locations,
-            549 strings with 5953 characters,
-and the built_in function-call counts, 3586 in all, are:
-= -- 343
-> -- 192
-< -- 3
-+ -- 75
-- -- 66
-* -- 247
-:= -- 580
-add.period$ -- 28
-call.type$ -- 9
-change.case$ -- 60
+            557 strings with 6280 characters,
+and the built_in function-call counts, 4115 in all, are:
+= -- 399
+> -- 215
+< -- 4
++ -- 84
+- -- 74
+* -- 281
+:= -- 658
+add.period$ -- 32
+call.type$ -- 10
+change.case$ -- 67
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 140
-empty$ -- 264
-format.name$ -- 66
-if$ -- 756
+cite$ -- 13
+duplicate$ -- 163
+empty$ -- 305
+format.name$ -- 74
+if$ -- 877
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 9
-newline$ -- 48
-num.names$ -- 18
-pop$ -- 75
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 20
+pop$ -- 84
 preamble$ -- 1
-purify$ -- 51
+purify$ -- 57
 quote$ -- 0
-skip$ -- 108
+skip$ -- 126
 stack$ -- 0
-substring$ -- 209
-swap$ -- 40
-text.length$ -- 3
+substring$ -- 246
+swap$ -- 51
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 40
 warning$ -- 3
-while$ -- 30
-width$ -- 10
-write$ -- 95
+while$ -- 35
+width$ -- 12
+write$ -- 107
 (There were 3 warnings)
