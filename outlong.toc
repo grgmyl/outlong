@@ -1,4 +1,5 @@
 \babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
 \contentsline {section}{\numberline {2}Προηγούμενες σχετικές μελέτες}{2}{section.2}%
 \contentsline {section}{\numberline {3}Βασική ανάλυση}{2}{section.3}%
@@ -25,4 +26,7 @@
 \contentsline {subsection}{\numberline {4.4}Intent-Aware Clickstream Analytics with Explainable AI: A Scalable Data Engineering Framework}{9}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Predicting online shopping behaviour from clickstream data using deep learning}{10}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction }{10}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{11}{section.5}%
+\contentsline {subsection}{\numberline {4.7}ClickstreamGPT: a transformer-based generative AI approach to clickstream prediction for E-commerce platforms}{11}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Clickstream user behavior clustering using graph time series}{12}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Understanding consumers’ online browsing patterns and influence of marketing stimuli: A two‑layer sequence analysis approach}{12}{subsection.4.9}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{13}{section.5}%
