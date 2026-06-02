@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.5.16)  2 JUN 2026 15:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.5.16)  2 JUN 2026 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1059,121 +1059,109 @@ r Click-Through Rate
  []
 
 
-Overfull \hbox (35.96162pt too wide) in paragraph at lines 208--209
+Overfull \hbox (35.96162pt too wide) in paragraph at lines 207--208
 \TU/TimesNewRoman(0)/m/n/12 μεγάλες ακολουθίες συμπεριφοράς χρηστών σε recommen
 dation systems. Οι συγγραφείς υποστηρίζουν
  []
 
 
-Overfull \hbox (33.73715pt too wide) in paragraph at lines 208--209
+Overfull \hbox (33.73715pt too wide) in paragraph at lines 207--208
 \TU/TimesNewRoman(0)/m/n/12 προτείνουν το ETA-Net, ένα end-to-end μοντέλο που σ
 χεδιάστηκε ειδικά για αποδοτική μοντελοποίηση
  []
 
 [10]
-Overfull \hbox (7.74365pt too wide) in paragraph at lines 214--214
+Overfull \hbox (7.74365pt too wide) in paragraph at lines 213--213
 []\TU/TimesNewRoman(0)/b/n/14.4 ClickstreamGPT: a transformer-based generative 
 AI approach to click-
  []
 
 
-Overfull \hbox (9.43637pt too wide) in paragraph at lines 219--220
+Overfull \hbox (9.43637pt too wide) in paragraph at lines 218--219
 \TU/TimesNewRoman(0)/m/n/12 recurrent neural networks (RNNs), δεν επεξεργάζοντα
 ι τα δεδομένα σειριακά αλλά χρησιμοποιούν
  []
 
 
-Overfull \hbox (21.56137pt too wide) in paragraph at lines 221--222
+Overfull \hbox (21.56137pt too wide) in paragraph at lines 220--221
 []\TU/TimesNewRoman(0)/m/n/12 Επιπλέον, το self-attention επιτρέπει στο μοντέλο
  να αποδίδει διαφορετικά βάρη σε προηγούμενα
  []
 
 
-Overfull \hbox (5.88248pt too wide) in paragraph at lines 221--222
+Overfull \hbox (5.88248pt too wide) in paragraph at lines 220--221
 \TU/TimesNewRoman(0)/m/n/12 clicks, ανάλογα με τη σημασία τους για την πρόβλεψη
  της επόμενης ενέργειας, κάτι που βελτιώνει
  []
 
 
-Overfull \hbox (13.90237pt too wide) in paragraph at lines 223--224
+Overfull \hbox (13.90237pt too wide) in paragraph at lines 222--223
 \TU/TimesNewRoman(0)/m/n/12 να επεκταθούν πέρα από τις εφαρμογές φυσικής γλώσσα
 ς και να χρησιμοποιηθούν αποτελεσματικά
  []
 
 
-Overfull \hbox (16.83286pt too wide) in paragraph at lines 227--229
+Overfull \hbox (16.83286pt too wide) in paragraph at lines 226--228
 \TU/TimesNewRoman(0)/m/n/12 χρονοσειρών με μεθόδους ανάλυσης δικτύων, με στόχο 
 την καλύτερη κατανόηση της συμπεριφοράς
  []
 
 
-Overfull \hbox (6.35516pt too wide) in paragraph at lines 227--229
+Overfull \hbox (6.35516pt too wide) in paragraph at lines 226--228
 \TU/TimesNewRoman(0)/m/n/12 χρηστών μέσα από clickstream δεδομένα. Η βασική ιδέ
 α είναι ότι οι χρονοσειρές που προκύπτουν
  []
 
 [11]
-Overfull \hbox (26.77817pt too wide) in paragraph at lines 230--232
+Overfull \hbox (26.77817pt too wide) in paragraph at lines 229--231
 \TU/TimesNewRoman(0)/m/n/12 συμπεριφοράς αποτυπώνονται μέσω ακμών που βασίζοντα
 ι σε συναρτήσεις απόστασης, επιτρέποντας
  []
 
 
-Overfull \hbox (9.69925pt too wide) in paragraph at lines 230--232
+Overfull \hbox (9.69925pt too wide) in paragraph at lines 229--231
 \TU/TimesNewRoman(0)/m/n/12 έτσι την ομαδοποίηση παρόμοιων συμπεριφορών ακόμη κ
 αι όταν υπάρχουν χρονικές μετατοπίσεις
  []
 
 
-Overfull \hbox (2.88039pt too wide) in paragraph at lines 230--232
+Overfull \hbox (2.88039pt too wide) in paragraph at lines 229--231
 \TU/TimesNewRoman(0)/m/n/12 διαχειρίσιμο και ερμηνεύσιμο. Παράλληλα, η χρήση το
 πολογικών χαρακτηριστικών του δικτύου
  []
 
 
-Overfull \hbox (6.3563pt too wide) in paragraph at lines 230--232
+Overfull \hbox (6.3563pt too wide) in paragraph at lines 229--231
 \TU/TimesNewRoman(0)/m/n/12 συμβάλλει στην εξαγωγή τόσο τοπικών όσο και καθολικ
 ών προτύπων, ενισχύοντας την ικανότητα
  []
 
 
-Overfull \hbox (7.36165pt too wide) in paragraph at lines 233--234
+Overfull \hbox (7.36165pt too wide) in paragraph at lines 232--233
 \TU/TimesNewRoman(0)/m/n/12 κλίμακα. Ωστόσο, τονίζει και την ύπαρξη ερευνητικού
  κενού, καθώς οι περισσότερες υπάρχουσες
  []
 
 
-Overfull \hbox (2.40317pt too wide) in paragraph at lines 233--234
+Overfull \hbox (2.40317pt too wide) in paragraph at lines 232--233
 \TU/TimesNewRoman(0)/m/n/12 αυτό το κενό, προσφέροντας ένα πλαίσιο που μπορεί ν
 α εντοπίζει μοτίβα συμπεριφοράς χρηστών
  []
 
 
-Overfull \hbox (3.92075pt too wide) in paragraph at lines 235--236
+Overfull \hbox (3.92075pt too wide) in paragraph at lines 234--235
 \TU/TimesNewRoman(0)/m/n/12 σημασία των αποτελεσμάτων, καθώς δείχνει ότι η μέθο
 δος μπορεί να εφαρμοστεί σε πραγματικές
  []
 
 
-Overfull \hbox (14.82504pt too wide) in paragraph at lines 241--242
-\TU/TimesNewRoman(0)/m/n/12 work για την ανάλυση clickstream δεδομένων σε περιβ
-άλλον e-commerce, με στόχο την κατανόηση
- []
-
-
-Overfull \hbox (3.1016pt too wide) in paragraph at lines 241--242
-\TU/TimesNewRoman(0)/m/n/12 των online browsing patterns και της επίδρασης που 
-έχουν τα marketing stimuli στη συμπεριφορά
- []
-
-
-Overfull \hbox (18.13364pt too wide) in paragraph at lines 243--244
+Overfull \hbox (18.13364pt too wide) in paragraph at lines 242--243
 []\TU/TimesNewRoman(0)/m/n/12 Στο πρώτο επίπεδο (Layer 1), οι συγγραφείς κατηγο
 ριοποιούν τους καταναλωτές σε διαφορετικά
  []
 
 
-Overfull \hbox (34.57895pt too wide) in paragraph at lines 243--244
+Overfull \hbox (34.57895pt too wide) in paragraph at lines 242--243
 \TU/TimesNewRoman(0)/m/n/12 αυτόν τον τρόπο, προκύπτουν διακριτά behavioral clu
 sters που αποτυπώνουν διαφορετικές στρατηγικές
  []
