@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99e
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: outlong.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
@@ -8,45 +8,45 @@ Database file #1: refer.bib
 Warning--empty journal in Pat2Vec
 Warning--empty journal in Apache
 Warning--empty journal in MMHM
-You've used 10 entries,
+You've used 13 entries,
             2118 wiz_defined-function locations,
-            557 strings with 6280 characters,
-and the built_in function-call counts, 4115 in all, are:
-= -- 399
-> -- 215
+            575 strings with 7028 characters,
+and the built_in function-call counts, 5129 in all, are:
+= -- 493
+> -- 284
 < -- 4
-+ -- 84
-- -- 74
-* -- 281
-:= -- 658
-add.period$ -- 32
-call.type$ -- 10
-change.case$ -- 67
++ -- 111
+- -- 98
+* -- 355
+:= -- 836
+add.period$ -- 41
+call.type$ -- 13
+change.case$ -- 88
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 163
-empty$ -- 305
-format.name$ -- 74
-if$ -- 877
+cite$ -- 16
+duplicate$ -- 191
+empty$ -- 372
+format.name$ -- 98
+if$ -- 1078
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 10
-newline$ -- 53
-num.names$ -- 20
-pop$ -- 84
+int.to.str$ -- 13
+missing$ -- 12
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 108
 preamble$ -- 1
-purify$ -- 57
+purify$ -- 75
 quote$ -- 0
-skip$ -- 126
+skip$ -- 147
 stack$ -- 0
-substring$ -- 246
-swap$ -- 51
+substring$ -- 292
+swap$ -- 54
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 40
+type$ -- 52
 warning$ -- 3
-while$ -- 35
-width$ -- 12
-write$ -- 107
+while$ -- 43
+width$ -- 15
+write$ -- 138
 (There were 3 warnings)

@@ -15,6 +15,19 @@ Qiwei Chen, Yue Xu, Changhua Pei, Shanshan Lv, Tao Zhuang, and Junfeng Ge.
   Information and Knowledge Management Workshop on Deep Learning Practice for
   High-Dimensional Sparse Data (DLP-KDD)}, 2022.
 
+\bibitem{DeOliveira2025}
+Leticia~Alves De~Oliveira, Victor Augusto~Sampaio Precoma, Felipe Mancini, and
+  Fabio Teixeira.
+\newblock Clickstream user behavior clustering using graph time series, 2025.
+\newblock SSRN Preprint, Abstract 5132450.
+
+\bibitem{Ding2025}
+Yi~Ding, Haifeng Xu, Chee~Wei Phang, and Bernard C.~Y. Tan.
+\newblock Understanding consumers' online browsing patterns and influence of
+  marketing stimuli: A two-layer sequence analysis approach.
+\newblock {\em Journal of the Academy of Marketing Science}, 53:1715--1747,
+  2025.
+
 \bibitem{RealTimeClickstream}
 Ramanna Hanamanthrao and Thejaswini S.
 \newblock Real-time clickstream data analytics and visualization.
@@ -27,6 +40,13 @@ Dennis Koehn, Stefan Lessmann, and Markus Schaal.
 \newblock Predicting online shopping behaviour from clickstream data using deep
   learning.
 \newblock {\em Expert Systems with Applications}, 150:113342, 2020.
+
+\bibitem{Mancini2025}
+Felipe Mancini, Victor Augusto~Sampaio Precoma, Leticia~Alves De~Oliveira, and
+  Fabio Teixeira.
+\newblock Clickstreamgpt: a transformer-based generative ai approach to
+  clickstream prediction for e-commerce platforms.
+\newblock {\em Electronic Commerce Research}, 2025.
 
 \bibitem{Pat2Vec}
 Erdi Olmezogullari and Mehmet~S. Aktas.
