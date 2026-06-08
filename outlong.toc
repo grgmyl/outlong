@@ -1,37 +1,39 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Πλαίσιο και Κίνητρο της Έρευνας}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Προκλήσεις και Μεθοδολογική Εξέλιξη στη Βιβλιογραφία}{2}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Σκοπός και Δομή της Αναφοράς}{2}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Προηγούμενες σχετικές μελέτες}{3}{section.2}%
-\contentsline {section}{\numberline {3}Βασική ανάλυση}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Model selection for mixture hidden Markov models: an application to clickstream data }{3}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Σκοπός της Έρευνας}{3}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Μεθοδολογία}{4}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Συμπεράσματα}{5}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Real-time user clickstream behavior analysis based on apache storm streaming}{5}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Σκοπός της Έρευνας}{5}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Μεθοδολογία}{6}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Συμπεράσματα}{6}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3}Pattern2Vec: Representation of clickstream data sequences for learning user navigational behavior }{7}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Σκοπός της έρευνας}{7}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Μεθοδολογία}{7}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Συμπεράσματα}{7}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Exclusive Item Recommendation to the Online Shopping Customers Based on Category Using Clickstream and UID Matrix, 2023}{8}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Σκοπός της έρευνας}{8}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Μεθοδολογία}{8}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}Συμπεράσματα}{9}{subsubsection.3.4.3}%
-\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Mining and Predicting Users Clickstream Patterns from Noisy Interleaving Clicks}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Clickstream user behavior models}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Real-time clickstream data analytics and visualization}{10}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Intent-Aware Clickstream Analytics with Explainable AI: A Scalable Data Engineering Framework}{11}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Predicting online shopping behaviour from clickstream data using deep learning}{11}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction }{12}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}ClickstreamGPT: a transformer-based generative AI approach to clickstream prediction for E-commerce platforms}{12}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Clickstream user behavior clustering using graph time series}{13}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}Understanding consumers’ online browsing patterns and influence of marketing stimuli: A two‑layer sequence analysis approach}{14}{subsection.4.9}%
-\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Deep learning \& sequential prediction}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}MHMM \& Sequence modeling}{15}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Real-Time Streaming \& ETL Υποδομές}{15}{subsection.5.3}%
+\contentsline {section}{\numberline {1}Εισαγωγή}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Πλαίσιο και Κίνητρο της Έρευνας}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Προκλήσεις και Μεθοδολογική Εξέλιξη στη Βιβλιογραφία}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Σκοπός και Δομή της Αναφοράς}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Προηγούμενες σχετικές μελέτες}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Mixture Hidden Markov Models για Clickstream Δεδομένα}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Real-time ανάλυση clickstream δεδομένων}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Βασική ανάλυση}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Model selection for mixture hidden Markov models: an application to clickstream data }{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Σκοπός της Έρευνας}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Μεθοδολογία}{6}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Συμπεράσματα}{7}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Real-time user clickstream behavior analysis based on apache storm streaming}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Σκοπός της Έρευνας}{7}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Μεθοδολογία}{7}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Συμπεράσματα}{8}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Pattern2Vec: Representation of clickstream data sequences for learning user navigational behavior }{8}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Σκοπός της έρευνας}{8}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Μεθοδολογία}{9}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Συμπεράσματα}{9}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Exclusive Item Recommendation to the Online Shopping Customers Based on Category Using Clickstream and UID Matrix, 2023}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Σκοπός της έρευνας}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Μεθοδολογία}{10}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Συμπεράσματα}{10}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}Μετέπειτα Εργασίες}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mining and Predicting Users Clickstream Patterns from Noisy Interleaving Clicks}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Clickstream user behavior models}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Real-time clickstream data analytics and visualization}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Intent-Aware Clickstream Analytics with Explainable AI: A Scalable Data Engineering Framework}{13}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Predicting online shopping behaviour from clickstream data using deep learning}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction }{14}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}ClickstreamGPT: a transformer-based generative AI approach to clickstream prediction for E-commerce platforms}{14}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Clickstream user behavior clustering using graph time series}{15}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Understanding consumers’ online browsing patterns and influence of marketing stimuli: A two‑layer sequence analysis approach}{15}{subsection.4.9}%
+\contentsline {section}{\numberline {5}Σύνοψη και συμπεράσματα}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Deep learning \& sequential prediction}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}MHMM \& Sequence modeling}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Real-Time Streaming \& ETL Υποδομές}{17}{subsection.5.3}%

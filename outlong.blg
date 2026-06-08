@@ -5,48 +5,50 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 Database file #1: refer.bib
+Warning--I didn't find a database entry for "Urso2024"
+Warning--I didn't find a database entry for "Pal2023"
 Warning--empty journal in Pat2Vec
 Warning--empty journal in Apache
 Warning--empty journal in MMHM
-You've used 13 entries,
+You've used 15 entries,
             2118 wiz_defined-function locations,
-            575 strings with 7028 characters,
-and the built_in function-call counts, 5129 in all, are:
-= -- 493
-> -- 284
+            594 strings with 7483 characters,
+and the built_in function-call counts, 5892 in all, are:
+= -- 568
+> -- 330
 < -- 4
-+ -- 111
-- -- 98
-* -- 355
-:= -- 836
-add.period$ -- 41
-call.type$ -- 13
-change.case$ -- 88
++ -- 129
+- -- 114
+* -- 421
+:= -- 967
+add.period$ -- 47
+call.type$ -- 15
+change.case$ -- 102
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 191
-empty$ -- 372
-format.name$ -- 98
-if$ -- 1078
+cite$ -- 18
+duplicate$ -- 213
+empty$ -- 423
+format.name$ -- 114
+if$ -- 1228
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 12
-newline$ -- 68
-num.names$ -- 26
-pop$ -- 108
+int.to.str$ -- 15
+missing$ -- 14
+newline$ -- 78
+num.names$ -- 30
+pop$ -- 118
 preamble$ -- 1
-purify$ -- 75
+purify$ -- 87
 quote$ -- 0
-skip$ -- 147
+skip$ -- 162
 stack$ -- 0
-substring$ -- 292
-swap$ -- 54
+substring$ -- 343
+swap$ -- 56
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 60
 warning$ -- 3
-while$ -- 43
-width$ -- 15
-write$ -- 138
-(There were 3 warnings)
+while$ -- 51
+width$ -- 17
+write$ -- 160
+(There were 5 warnings)

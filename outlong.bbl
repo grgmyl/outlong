@@ -35,11 +35,24 @@ Ramanna Hanamanthrao and Thejaswini S.
   Electronics Information \& Communication Technology (RTEICT)}, pages
   2139--2144, May 2017.
 
+\bibitem{Helske2019}
+Satu Helske and Jouni Helske.
+\newblock Mixture hidden markov models for sequence data: The seqhmm package in
+  r.
+\newblock {\em Journal of Statistical Software}, 88(3):1--32, 2019.
+
 \bibitem{koehn2020predicting}
 Dennis Koehn, Stefan Lessmann, and Markus Schaal.
 \newblock Predicting online shopping behaviour from clickstream data using deep
   learning.
 \newblock {\em Expert Systems with Applications}, 150:113342, 2020.
+
+\bibitem{Liu2017}
+Z.~Liu, Y.~Wang, M.~Dontcheva, M.~Hoffman, S.~Walker, and A.~Wilson.
+\newblock Patterns and sequences: Interactive exploration of clickstreams to
+  understand common visitor paths.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  23(1):321--330, 2017.
 
 \bibitem{Mancini2025}
 Felipe Mancini, Victor Augusto~Sampaio Precoma, Leticia~Alves De~Oliveira, and
