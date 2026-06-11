@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.31)  8 JUN 2026 17:10
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.31)  11 JUN 2026 15:56
  restricted system commands enabled.
 **outlong.tex
 (./outlong.tex
@@ -644,7 +644,7 @@ Package hyperref Info: Link coloring ON on input line 14.
 \@outlinefile=\write3
 
 \openout3 = outlong.out
-<images/logo.png, id=155, 488.5452pt x 177.3024pt>
+<images/logo.png, id=159, 488.5452pt x 177.3024pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 20.
@@ -963,31 +963,31 @@ Overfull \hbox (0.98682pt too wide) in paragraph at lines 161--162
  []
 
 
-Overfull \hbox (18.55435pt too wide) in paragraph at lines 170--171
-\TU/TimesNewRoman(0)/m/n/12 πλοήγησης χρηστών (click-stream), 
-με την ονομασία Pat-tern2Vec, με στόχο την αποτελ
-εσματικότερη
+Overfull \hbox (10.81528pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/12 δεδομένα, τα οποία δεν μπορ
+ούν να αξιοποιηθούν άμεσα από αλγορίθμους 
+μηχανικής μάθησης.Για
  []
 
 
-Overfull \hbox (18.21567pt too wide) in paragraph at lines 170--171
-\TU/TimesNewRoman(0)/m/n/12 μάθησης.Για τον λόγο αυτό, π
-ροτείνεται η μετατροπή των ακολουθιών πλο
-ήγησης σε διανυσματικές
+Overfull \hbox (20.30045pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/12 μέθοδος υπερτερεί έναντι υ
+παρχουσών προσεγγίσεων, όπως οι Word2Vec, Deep-Walk 
+και Node2Vec.
  []
 
 
-Overfull \hbox (16.7344pt too wide) in paragraph at lines 170--171
-\TU/TimesNewRoman(0)/m/n/12 συμπεριφοράς.Τα αποτελέσμα
-τα έδειξαν ότι η προτεινόμενη μέθοδος υπερ
-τερεί έναντι υπαρχουσών
+Overfull \hbox (4.10123pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/12 Συγκεκριμένα, παρουσίασε υ
+ψηλότερες επιδόσεις σε μετρικές αξιολόγησ
+ης ομαδοποίησης, όπως
  []
 
 
-Overfull \hbox (27.81361pt too wide) in paragraph at lines 170--171
-\TU/TimesNewRoman(0)/m/n/12 προσεγγίσεων, όπως οι Word2Vec, De
-ep-Walk και Node2Vec. Συγκεκριμένα, παρουσίασε υψη
-λότερες
+Overfull \hbox (15.37271pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/12 το v-score, η ομοιογένεια (ho-mo-gene-
+ity) και η πληρότητα (com-plete-ness), επιτυγχάνοντα
+ς ποσοστά
  []
 
 
@@ -1014,20 +1014,6 @@ Overfull \hbox (3.94498pt too wide) in paragraph at lines 174--175
  []
 
 
-Overfull \hbox (2.1434pt too wide) in paragraph at lines 174--175
-\TU/TimesNewRoman(0)/m/n/12 οργανώθηκαν σε συνεδρίες π
-λοήγησης (ses-sions), λαμβάνοντας υπόψη χρονικο
-ύς περιορισμούς,
- []
-
-
-Overfull \hbox (29.071pt too wide) in paragraph at lines 174--175
-\TU/TimesNewRoman(0)/m/n/12 όπως το μέγιστο χρονικό διά
-στημα μεταξύ διαδοχικών ενεργειών. Με αυτό
-ν τον τρόπο εξασφαλίστηκε
- []
-
-
 Overfull \hbox (12.69223pt too wide) in paragraph at lines 174--175
 \TU/TimesNewRoman(0)/m/n/12 ότι οι ακολουθίες αντανακλ
 ούν την ρεαλιστική συμπεριφορά χρηστών.Στ
@@ -1035,17 +1021,38 @@ Overfull \hbox (12.69223pt too wide) in paragraph at lines 174--175
  []
 
 
-Overfull \hbox (36.54886pt too wide) in paragraph at lines 174--175
-\TU/TimesNewRoman(0)/m/n/12 πραγματοποιήθηκε φιλτράρι
-σμα για την απομάκρυνση πλεοναζόντων ή επι
-καλυπτόμενων προτύπων.Το
+Overfull \hbox (41.00734pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 στόχο την αναγνώριση συχνώ
+ν και λανθανόντων προτύπων πλοήγησης. Παρά
+λληλα, πραγματοποιήθηκε
  []
 
 
-Overfull \hbox (13.68832pt too wide) in paragraph at lines 174--175
-\TU/TimesNewRoman(0)/m/n/12 διανυσματικές αναπαραστάσ
-εις τύπου Word2Vec, αλλά διαφοροποιείται στο ό
-τι εισάγει μηχανισμό
+Overfull \hbox (6.36331pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 φιλτράρισμα για την απομάκ
+ρυνση πλεοναζόντων ή επικαλυπτόμενων προτ
+ύπων.Το κύριο στάδιο
+ []
+
+
+Overfull \hbox (12.7591pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 των χαρακτηριστικών. Συγκε
+κριμένα, αξιοποιεί τον νόμο του Zipf, ώστε κά
+θε URL να συνεισφέρει
+ []
+
+
+Overfull \hbox (20.30551pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 αλγόριθμος K-Means και η ιεραρ
+χική ομαδοποίηση (Ag-glom-er-a-tive Clus-ter-ing), για τη
+ν αξιολόγηση
+ []
+
+
+Overfull \hbox (44.54657pt too wide) in paragraph at lines 174--175
+\TU/TimesNewRoman(0)/m/n/12 της ποιότητας των παραγόμε
+νων αναπαραστάσεων. Η αξιολόγηση βασίστηκ
+ε σε μετρικές ομαδοποίησης,
  []
 
 
@@ -1624,27 +1631,27 @@ L3 programming layer <2025-10-09>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `outlong.out' has not changed.
-(rerunfilecheck)             Checksum: C68900EF5603F7D93A56186587E8FDC6;12104.
+(rerunfilecheck)             Checksum: 725D708D81A78986183A1F0205445799;12244.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14113 strings out of 476290
+ 14115 strings out of 476290
  100000,794899 words of node,token memory allocated
  541 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 21 attribute, 52 glue_spec
 , 12 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 2:1220,3:380,4:278,5:374,6:104,7:8126,8:5,9:603,10:15,11:540
- 36014 multiletter control sequences out of 65536+600000
+   avail lists: 2:1220,3:380,4:278,5:374,6:104,7:8126,8:5,9:603,10:15,11:525
+ 36015 multiletter control sequences out of 65536+600000
  45 fonts using 15215423 bytes
- 73i,6n,92p,3018b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,6n,92p,2998b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf><C:/WINDOWS/Fonts/times.ttf><C:/WINDOWS/Fonts/times
 bd.ttf><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi12.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmmi8.pfb><C:/Users/dimit/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb>
-Output written on outlong.pdf (21 pages, 669302 bytes).
+Output written on outlong.pdf (21 pages, 669905 bytes).
 
-PDF statistics: 415 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 131072)
- 305 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 420 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 131072)
+ 313 words of extra memory for PDF output out of 10000 (max. 100000000)
 
